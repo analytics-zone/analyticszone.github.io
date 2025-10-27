@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://analyticszone.github.io/ca/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.github.io/en/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.github.io/ca/about/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.github.io/en/about/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.github.io/ca/contact/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.github.io/en/contact/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.github.io/ca/menu1/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.github.io/en/menu1/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.github.io/ca/menu2/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.github.io/en/menu2/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.github.io/ca/menu3/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.github.io/en/menu3/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.github.io/ca/privacy/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.github.io/en/privacy/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.github.io/ca/terms/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.github.io/en/terms/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.github.io/en/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.github.io/ca/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.github.io/en/about/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.github.io/ca/about/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.github.io/en/contact/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.github.io/ca/contact/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.github.io/en/menu1/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.github.io/ca/menu1/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.github.io/en/menu2/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.github.io/ca/menu2/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.github.io/en/menu3/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.github.io/ca/menu3/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.github.io/en/privacy/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.github.io/ca/privacy/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.github.io/en/terms/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.github.io/ca/terms/"/>
+  </url>
+</urlset>
