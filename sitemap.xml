@@ -1,99 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://analyticszone.github.io/ca/</loc>
+    <loc>https://analyticszone.app/ca/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/"/>
   </url>
   <url>
-    <loc>https://analyticszone.github.io/ca/about/</loc>
+    <loc>https://analyticszone.app/ca/about/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.github.io/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/about/"/>
   </url>
   <url>
-    <loc>https://analyticszone.github.io/ca/contact/</loc>
+    <loc>https://analyticszone.app/ca/contact/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.github.io/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/contact/"/>
   </url>
   <url>
-    <loc>https://analyticszone.github.io/ca/menu1/</loc>
+    <loc>https://analyticszone.app/ca/menu1/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.github.io/en/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu1/"/>
   </url>
   <url>
-    <loc>https://analyticszone.github.io/ca/menu2/</loc>
+    <loc>https://analyticszone.app/ca/menu2/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.github.io/en/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu2/"/>
   </url>
   <url>
-    <loc>https://analyticszone.github.io/ca/menu3/</loc>
+    <loc>https://analyticszone.app/ca/menu3/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.github.io/en/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu3/"/>
   </url>
   <url>
-    <loc>https://analyticszone.github.io/ca/privacy/</loc>
+    <loc>https://analyticszone.app/ca/privacy/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.github.io/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/privacy/"/>
   </url>
   <url>
-    <loc>https://analyticszone.github.io/ca/terms/</loc>
+    <loc>https://analyticszone.app/ca/terms/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.github.io/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/terms/"/>
   </url>
   <url>
-    <loc>https://analyticszone.github.io/en/</loc>
+    <loc>https://analyticszone.app/en/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.github.io/ca/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
   </url>
   <url>
-    <loc>https://analyticszone.github.io/en/about/</loc>
+    <loc>https://analyticszone.app/en/about/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.github.io/ca/about/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
   </url>
   <url>
-    <loc>https://analyticszone.github.io/en/contact/</loc>
+    <loc>https://analyticszone.app/en/contact/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.github.io/ca/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
   </url>
   <url>
-    <loc>https://analyticszone.github.io/en/menu1/</loc>
+    <loc>https://analyticszone.app/en/menu1/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.github.io/ca/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
   </url>
   <url>
-    <loc>https://analyticszone.github.io/en/menu2/</loc>
+    <loc>https://analyticszone.app/en/menu2/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.github.io/ca/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
   </url>
   <url>
-    <loc>https://analyticszone.github.io/en/menu3/</loc>
+    <loc>https://analyticszone.app/en/menu3/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.github.io/ca/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
   </url>
   <url>
-    <loc>https://analyticszone.github.io/en/privacy/</loc>
+    <loc>https://analyticszone.app/en/privacy/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.github.io/ca/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
   </url>
   <url>
-    <loc>https://analyticszone.github.io/en/terms/</loc>
+    <loc>https://analyticszone.app/en/terms/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.github.io/ca/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
   </url>
 </urlset>

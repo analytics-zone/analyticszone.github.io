@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://analyticszone.github.io/sitemap.xml
+Sitemap: https://analyticszone.app/sitemap.xml

@@ -1,7 +1,7 @@
 {
-  "name": "AnalyticsZone - Sports Analytics Platform",
-  "short_name": "AnalyticsZone - Sports Analytics Platform",
-  "description": "Advanced sports analytics platform for athletes and coaches. Track performance, analyze data, and optimize training with cutting-edge technology.",
+  "name": "AnalyticsZone - Privacy-First Sports Analytics Applications",
+  "short_name": "AnalyticsZone - Privacy-First Sports Analytics Applications",
+  "description": "Professional sports analytics applications for running, swimming, cycling, and walking. Privacy-first, scientifically-backed tools for athletes and coaches to track performance, analyze training data, and optimize athletic progression.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
