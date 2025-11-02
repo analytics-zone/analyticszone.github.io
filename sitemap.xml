@@ -43,6 +43,12 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/privacy/"/>
   </url>
   <url>
+    <loc>https://analyticszone.app/ca/technology/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/technology/"/>
+  </url>
+  <url>
     <loc>https://analyticszone.app/ca/terms/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -89,6 +95,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/en/technology/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
   </url>
   <url>
     <loc>https://analyticszone.app/en/terms/</loc>
