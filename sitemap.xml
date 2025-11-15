@@ -4,108 +4,1260 @@
     <loc>https://analyticszone.app/ca/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/"/>
   </url>
   <url>
     <loc>https://analyticszone.app/ca/about/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/about/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/about/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/about/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/about/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/about/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/about/"/>
   </url>
   <url>
     <loc>https://analyticszone.app/ca/contact/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/contact/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/contact/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/contact/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/contact/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/contact/"/>
   </url>
   <url>
     <loc>https://analyticszone.app/ca/menu1/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu1/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu1/"/>
   </url>
   <url>
     <loc>https://analyticszone.app/ca/menu2/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu2/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu2/"/>
   </url>
   <url>
     <loc>https://analyticszone.app/ca/menu3/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu3/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu3/"/>
   </url>
   <url>
     <loc>https://analyticszone.app/ca/privacy/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/privacy/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/privacy/"/>
   </url>
   <url>
     <loc>https://analyticszone.app/ca/technology/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/technology/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/technology/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/technology/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/technology/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/technology/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/technology/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/technology/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/technology/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/technology/"/>
   </url>
   <url>
     <loc>https://analyticszone.app/ca/terms/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/terms/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/terms/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/de/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/de/about/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/about/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/about/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/about/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/about/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/about/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/de/contact/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/contact/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/contact/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/contact/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/contact/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/de/menu1/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu1/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/de/menu2/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu2/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/de/menu3/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu3/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/de/privacy/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/privacy/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/de/technology/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/technology/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/technology/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/technology/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/technology/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/technology/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/technology/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/technology/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/technology/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/de/terms/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/terms/"/>
   </url>
   <url>
     <loc>https://analyticszone.app/en/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/"/>
   </url>
   <url>
     <loc>https://analyticszone.app/en/about/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/about/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/about/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/about/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/about/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/about/"/>
   </url>
   <url>
     <loc>https://analyticszone.app/en/contact/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/contact/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/contact/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/contact/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/contact/"/>
   </url>
   <url>
     <loc>https://analyticszone.app/en/menu1/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu1/"/>
   </url>
   <url>
     <loc>https://analyticszone.app/en/menu2/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu2/"/>
   </url>
   <url>
     <loc>https://analyticszone.app/en/menu3/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu3/"/>
   </url>
   <url>
     <loc>https://analyticszone.app/en/privacy/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/privacy/"/>
   </url>
   <url>
     <loc>https://analyticszone.app/en/technology/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/technology/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/technology/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/technology/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/technology/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/technology/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/technology/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/technology/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/technology/"/>
   </url>
   <url>
     <loc>https://analyticszone.app/en/terms/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/terms/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/es/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/es/about/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/about/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/about/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/about/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/about/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/about/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/es/contact/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/contact/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/contact/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/contact/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/contact/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/contact/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/es/menu1/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu1/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/es/menu2/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu2/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/es/menu3/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu3/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/es/privacy/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/privacy/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/es/technology/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/technology/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/technology/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/technology/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/technology/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/technology/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/technology/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/technology/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/technology/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/es/terms/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/terms/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/fr/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/fr/about/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/about/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/about/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/about/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/about/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/fr/contact/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/contact/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/contact/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/contact/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/contact/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/contact/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/fr/menu1/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu1/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/fr/menu2/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu2/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/fr/menu3/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu3/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/fr/privacy/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/privacy/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/fr/technology/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/technology/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/technology/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/technology/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/technology/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/technology/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/technology/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/technology/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/technology/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/fr/terms/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/terms/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/it/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/it/about/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/about/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/about/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/about/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/about/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/it/contact/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/contact/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/contact/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/contact/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/contact/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/contact/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/it/menu1/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu1/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/it/menu2/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu2/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/it/menu3/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu3/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/it/privacy/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/privacy/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/it/technology/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/technology/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/technology/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/technology/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/technology/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/technology/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/technology/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/technology/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/technology/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/it/terms/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/terms/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/ja/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/ja/about/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/about/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/about/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/about/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/about/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/about/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/ja/contact/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/contact/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/contact/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/contact/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/contact/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/contact/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/ja/menu1/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu1/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/ja/menu2/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu2/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/ja/menu3/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu3/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/ja/privacy/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/privacy/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/ja/technology/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/technology/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/technology/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/technology/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/technology/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/technology/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/technology/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/technology/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/technology/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/ja/terms/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/terms/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/terms/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/nl/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/nl/about/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/about/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/about/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/about/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/about/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/nl/contact/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/contact/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/contact/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/contact/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/contact/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/nl/menu1/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu1/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/nl/menu2/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu2/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/nl/menu3/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu3/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/nl/privacy/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/privacy/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/nl/technology/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/technology/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/technology/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/technology/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/technology/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/technology/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/technology/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/technology/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/technology/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/nl/terms/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/terms/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/pt/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/pt/about/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/about/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/about/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/about/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/about/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/pt/contact/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/contact/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/contact/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/contact/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/contact/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/pt/menu1/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu1/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/pt/menu2/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu2/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/pt/menu3/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/menu3/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/pt/privacy/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/privacy/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/pt/technology/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/technology/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/technology/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/technology/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/technology/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/technology/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/technology/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/technology/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/technology/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/pt/terms/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/terms/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/zh/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/zh/about/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/about/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/about/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/about/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/about/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/zh/contact/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/contact/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/contact/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/contact/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/contact/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/contact/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/zh/menu1/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu1/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu1/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/zh/menu2/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu2/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu2/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/zh/menu3/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/menu3/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/menu3/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/zh/privacy/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/privacy/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/zh/technology/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/technology/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/technology/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/technology/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/technology/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/technology/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/technology/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/technology/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/technology/"/>
+  </url>
+  <url>
+    <loc>https://analyticszone.app/zh/terms/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://analyticszone.app/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://analyticszone.app/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://analyticszone.app/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://analyticszone.app/it/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://analyticszone.app/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://analyticszone.app/nl/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://analyticszone.app/pt/terms/"/>
   </url>
 </urlset>
