@@ -18,7 +18,7 @@
     
     
     <meta property="article:published_time" content="2025-01-15T10:00:00Z">
-    <meta property="article:modified_time" content="2025-11-16T14:30:00Z">
+    <meta property="article:modified_time" content="2025-11-29T14:30:00Z">
     <meta property="article:author" content="AnalyticsZone">
     
 
@@ -64,6 +64,14 @@
     
     <link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/technology/">
     
+    <link rel="alternate" hreflang="ko" href="https://analyticszone.app/ko/technology/">
+    
+    <link rel="alternate" hreflang="sv" href="https://analyticszone.app/sv/technology/">
+    
+    <link rel="alternate" hreflang="nb" href="https://analyticszone.app/nb/technology/">
+    
+    <link rel="alternate" hreflang="pl" href="https://analyticszone.app/pl/technology/">
+    
     <link rel="alternate" hreflang="x-default" href="https://analyticszone.app/en/technology/">
 
     
@@ -96,7 +104,13 @@
         <div class="header-inner">
             
             <a href="/es/" class="site-logo">
-                <span class="logo-text">AnalyticsZone</span>
+                <picture>
+                    
+                    <source srcset="/assets/images/logo-dark.png" type="image/png" media="(prefers-color-scheme: dark)">
+                    
+                    <img src="/assets/images/logo.png" alt="AnalyticsZone - Privacy-First Sports Analytics Applications" width="56" height="56">
+                </picture>
+                <span class="logo-text"></span>
             </a>
 
             
@@ -104,55 +118,53 @@
                 <ul>
                     
                     <li>
-                        <a href="/es/"
-                           
-                           aria-current="">
+                        
+                        
+                        <a href="/es/"  aria-current="">
                             Inicio
                         </a>
-                    </li>
-                    
+                        
+                        </li>
+                        
                     <li>
-                        <a href="/es/technology/"
-                           class="active"
-                           aria-current="page">
+                        
+                        
+                        <a href="/es/technology/" class="active"  aria-current="page">
                             Tecnología
                         </a>
-                    </li>
-                    
+                        
+                        </li>
+                        
                     <li>
-                        <a href="/es/about/"
-                           
-                           aria-current="">
+                        
+                        
+                        <a href="/es/about/"  aria-current="">
                             Acerca de
                         </a>
-                    </li>
-                    
+                        
+                        </li>
+                        
                     <li>
-                        <a href="/es/contact/"
-                           
-                           aria-current="">
+                        
+                        
+                        <a href="/es/contact/"  aria-current="">
                             Contacto
                         </a>
-                    </li>
-                    
+                        
+                        </li>
+                        
                 </ul>
 
                 
                 <div class="search-container">
-                    <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18"
+                        viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round" aria-hidden="true">
                         <circle cx="11" cy="11" r="8"></circle>
                         <path d="m21 21-4.35-4.35"></path>
                     </svg>
-                    <input
-                        type="search"
-                        id="site-search"
-                        class="search-input"
-                        aria-expanded="false"
-                        aria-haspopup="listbox"
-                        aria-autocomplete="list"
-                        autocomplete="off"
-                        spellcheck="false"
-                    />
+                    <input type="search" id="site-search" class="search-input" aria-expanded="false"
+                        aria-haspopup="listbox" aria-autocomplete="list" autocomplete="off" spellcheck="false" />
                     <div id="search-results" class="search-results hidden" role="region" aria-live="polite"></div>
                 </div>
 
@@ -187,12 +199,28 @@
                         日本語
                     </option>
                     
+                    <option value="ko" >
+                        한국어
+                    </option>
+                    
+                    <option value="nb" >
+                        Norsk Bokmål
+                    </option>
+                    
                     <option value="nl" >
                         Nederlands
                     </option>
                     
+                    <option value="pl" >
+                        Polski
+                    </option>
+                    
                     <option value="pt" >
                         Português
+                    </option>
+                    
+                    <option value="sv" >
+                        Svenska
                     </option>
                     
                     <option value="zh" >
@@ -200,10 +228,37 @@
                     </option>
                     
                 </select>
+
+                
+                <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode"
+                    title="Toggle dark/light mode">
+                    <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                    <svg class="moon-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                </button>
+
+                
+                
             </nav>
 
             
-            <button class="menu-toggle" id="menu-toggle" aria-label="Alternar menú" aria-expanded="false" aria-controls="nav-primary">
+            <button class="menu-toggle" id="menu-toggle" aria-label="Alternar menú"
+                aria-expanded="false" aria-controls="nav-primary">
                 <span></span>
                 <span></span>
                 <span></span>
@@ -225,75 +280,90 @@
   <div class="container">
     <div class="grid-2 gap-xl items-center mb-2xl">
       <div>
-        <h2 class="mb-md">Privacy-First Architecture</h2>
+        <h2 class="mb-md">Arquitectura Centrada en la Privacidad</h2>
         <p class="mb-md">Todo el procesamiento de analítica ocurre localmente en tu dispositivo—sin almacenamiento en la nube, sin recopilación de datos.</p>
-        <p class="mb-md">Unlike traditional cloud-based analytics platforms, AnalyticsZone applications process all your training data locally on your device. This means:</p>
+        <p class="mb-md">A diferencia de las plataformas de análisis tradicionales basadas en la nube, las aplicaciones
+          de AnalyticsZone procesan todos sus datos de entrenamiento localmente en su dispositivo. Esto significa:</p>
         <ul class="mb-lg">
-          <li class="mb-sm">Your workout data never leaves your device</li>
-          <li class="mb-sm">No user accounts or registration required</li>
-          <li class="mb-sm">No third-party data sharing or selling</li>
-          <li class="mb-sm">Works completely offline after initial download</li>
-          <li class="mb-sm">You maintain complete ownership of your data</li>
+          <li class="mb-sm">Sus datos de entrenamiento nunca salen de su dispositivo</li>
+          <li class="mb-sm">No se requieren cuentas de usuario ni registro</li>
+          <li class="mb-sm">No se comparten ni venden datos a terceros</li>
+          <li class="mb-sm">Funciona completamente sin conexión después de la descarga inicial</li>
+          <li class="mb-sm">Usted mantiene la propiedad completa de sus datos</li>
         </ul>
       </div>
       <div class="card">
         <div class="text-center mb-md">
-          <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin: 0 auto;">
-            <rect x="3" y="11" width="18" height="11" rx="2" ry="2"/>
-            <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
+          <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none"
+            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+            style="margin: 0 auto;">
+            <rect x="3" y="11" width="18" height="11" rx="2" ry="2" />
+            <path d="M7 11V7a5 5 0 0 1 10 0v4" />
           </svg>
         </div>
-        <h3 class="text-center mb-sm">100% Local Processing</h3>
-        <p class="text-center">All analytics computations happen on your device using modern web technologies.</p>
+        <h3 class="text-center mb-sm">Procesamiento 100% Local</h3>
+        <p class="text-center">Todos los cálculos analíticos ocurren en su dispositivo utilizando tecnologías web
+          modernas.</p>
       </div>
     </div>
 
     <div class="grid-2 gap-xl items-center mb-2xl">
       <div class="card">
         <div class="text-center mb-md">
-          <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin: 0 auto;">
-            <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
+          <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none"
+            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+            style="margin: 0 auto;">
+            <path d="M22 12h-4l-3 9L9 3l-3 9H2" />
           </svg>
         </div>
-        <h3 class="text-center mb-sm">Peer-Reviewed Research</h3>
-        <p class="text-center">Every metric and calculation is based on published scientific studies and validated methodologies.</p>
+        <h3 class="text-center mb-sm">Investigación Revisada por Pares</h3>
+        <p class="text-center">Cada métrica y cálculo se basa en estudios científicos publicados y metodologías
+          validadas.</p>
       </div>
       <div>
-        <h2 class="mb-md">Scientifically-Backed Metrics</h2>
+        <h2 class="mb-md">Métricas Respaldadas Científicamente</h2>
         <p class="mb-md">Construido sobre investigación revisada por pares y metodologías de entrenamiento validadas de científicos deportivos líderes.</p>
-        <p class="mb-md">Our applications implement training zone models and performance metrics from leading sports scientists:</p>
+        <p class="mb-md">Nuestras aplicaciones implementan modelos de zonas de entrenamiento y métricas de rendimiento
+          de los principales científicos deportivos:</p>
         <ul class="mb-0">
-          <li class="mb-sm"><strong>Training Zones:</strong> Coggan, Daniels, Seiler methodologies</li>
-          <li class="mb-sm"><strong>Performance Metrics:</strong> VO2max, lactate threshold, running economy</li>
-          <li class="mb-sm"><strong>Training Load:</strong> TSS, TRIMP, training stress balance</li>
-          <li class="mb-sm"><strong>Periodization:</strong> Evidence-based training phase planning</li>
-          <li class="mb-sm"><strong>Race Prediction:</strong> Riegel and Cameron models</li>
+          <li class="mb-sm"><strong>Zonas de Entrenamiento:</strong> Metodologías de Coggan, Daniels, Seiler</li>
+          <li class="mb-sm"><strong>Métricas de Rendimiento:</strong> VO2max, umbral de lactato, economía de carrera
+          </li>
+          <li class="mb-sm"><strong>Carga de Entrenamiento:</strong> TSS, TRIMP, equilibrio de estrés de entrenamiento
+          </li>
+          <li class="mb-sm"><strong>Periodización:</strong> Planificación de fases de entrenamiento basada en evidencia
+          </li>
+          <li class="mb-sm"><strong>Predicción de Carreras:</strong> Modelos de Riegel y Cameron</li>
         </ul>
       </div>
     </div>
 
     <div class="grid-2 gap-xl items-center">
       <div>
-        <h2 class="mb-md">Open Standards & Compatibility</h2>
+        <h2 class="mb-md">Estándares Abiertos y Compatibilidad</h2>
         <p class="mb-md">Compatible con formatos de archivo de fitness estándar (FIT, TCX, GPX) de todas las plataformas principales.</p>
-        <p class="mb-md">Import your training data from any platform:</p>
+        <p class="mb-md">Importe sus datos de entrenamiento desde cualquier plataforma:</p>
         <ul class="mb-lg">
-          <li class="mb-sm"><strong>FIT Files:</strong> Garmin, Wahoo, Polar, Suunto</li>
-          <li class="mb-sm"><strong>TCX Files:</strong> Training Center XML format</li>
-          <li class="mb-sm"><strong>GPX Files:</strong> GPS Exchange Format</li>
-          <li class="mb-sm"><strong>CSV Export:</strong> Universal spreadsheet compatibility</li>
+          <li class="mb-sm"><strong>Archivos FIT:</strong> Garmin, Wahoo, Polar, Suunto</li>
+          <li class="mb-sm"><strong>Archivos TCX:</strong> Formato XML de Training Center</li>
+          <li class="mb-sm"><strong>Archivos GPX:</strong> Formato de Intercambio GPS</li>
+          <li class="mb-sm"><strong>Exportación CSV:</strong> Compatibilidad universal con hojas de cálculo</li>
         </ul>
-        <p class="mb-0">No proprietary formats or vendor lock-in. Your data remains accessible and portable.</p>
+        <p class="mb-0">Sin formatos propietarios ni bloqueo de proveedores. Sus datos permanecen accesibles y
+          portátiles.</p>
       </div>
       <div class="card">
         <div class="text-center mb-md">
-          <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin: 0 auto;">
-            <polyline points="16 18 22 12 16 6"/>
-            <polyline points="8 6 2 12 8 18"/>
+          <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none"
+            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+            style="margin: 0 auto;">
+            <polyline points="16 18 22 12 16 6" />
+            <polyline points="8 6 2 12 8 18" />
           </svg>
         </div>
-        <h3 class="text-center mb-sm">Universal File Support</h3>
-        <p class="text-center">Import workouts from Garmin, Wahoo, Polar, Suunto, and any platform supporting standard formats.</p>
+        <h3 class="text-center mb-sm">Soporte Universal de Archivos</h3>
+        <p class="text-center">Importe entrenamientos desde Garmin, Wahoo, Polar, Suunto y cualquier plataforma que
+          admita formatos estándar.</p>
       </div>
     </div>
   </div>
@@ -301,21 +371,22 @@
 
 <section class="section callout callout-info">
   <div class="container">
-    <h2 class="text-center mb-md">Modern Web Technology</h2>
-    <p class="text-center text-lg mb-2xl max-w-prose">Built with cutting-edge web standards for fast, responsive, and reliable performance</p>
+    <h2 class="text-center mb-md">Tecnología Web Moderna</h2>
+    <p class="text-center text-lg mb-2xl max-w-prose">Construido con estándares web de vanguardia para un rendimiento
+      rápido, receptivo y confiable</p>
 
     <div class="grid-3 gap-lg">
       <div class="text-center">
-        <h3 class="mb-sm">Progressive Web App</h3>
-        <p>Install on any device and use offline. Works on desktop, mobile, and tablet.</p>
+        <h3 class="mb-sm">Aplicación Web Progresiva</h3>
+        <p>Instale en cualquier dispositivo y use sin conexión. Funciona en escritorio, móvil y tableta.</p>
       </div>
       <div class="text-center">
-        <h3 class="mb-sm">Fast Performance</h3>
-        <p>Optimized algorithms ensure instant calculations even with years of training data.</p>
+        <h3 class="mb-sm">Rendimiento Rápido</h3>
+        <p>Los algoritmos optimizados aseguran cálculos instantáneos incluso con años de datos de entrenamiento.</p>
       </div>
       <div class="text-center">
-        <h3 class="mb-sm">Regular Updates</h3>
-        <p>Continuous improvements with new features, metrics, and research integrations.</p>
+        <h3 class="mb-sm">Actualizaciones Regulares</h3>
+        <p>Mejoras continuas con nuevas características, métricas e integraciones de investigación.</p>
       </div>
     </div>
   </div>
@@ -323,9 +394,10 @@
 
 <section class="section">
   <div class="container text-center">
-    <h2 class="mb-md">Experience Privacy-First Analytics</h2>
-    <p class="text-lg mb-lg max-w-prose">Choose your sport and start analyzing your training data with complete confidence in your privacy.</p>
-    <a href="/en/" class="btn btn-primary btn-large">Explore Applications</a>
+    <h2 class="mb-md">Experimente Analítica Centrada en la Privacidad</h2>
+    <p class="text-lg mb-lg max-w-prose">Elija su deporte y comience a analizar sus datos de entrenamiento con total
+      confianza en su privacidad.</p>
+    <a href="/es/" class="btn btn-primary btn-large">Explorar Aplicaciones</a>
   </div>
 </section>
     </main>
@@ -383,6 +455,22 @@
                     
                     <li>
                         <a href="/zh/">中文</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/ko/">한국어</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/sv/">Svenska</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/nb/">Norsk Bokmål</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/pl/">Polski</a>
                     </li>
                     
                 </ul>

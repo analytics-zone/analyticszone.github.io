@@ -18,7 +18,7 @@
     
     
     <meta property="article:published_time" content="2025-01-15T10:00:00Z">
-    <meta property="article:modified_time" content="2025-11-16T14:30:00Z">
+    <meta property="article:modified_time" content="2025-11-29T14:30:00Z">
     <meta property="article:author" content="AnalyticsZone">
     
 
@@ -64,6 +64,14 @@
     
     <link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/privacy/">
     
+    <link rel="alternate" hreflang="ko" href="https://analyticszone.app/ko/privacy/">
+    
+    <link rel="alternate" hreflang="sv" href="https://analyticszone.app/sv/privacy/">
+    
+    <link rel="alternate" hreflang="nb" href="https://analyticszone.app/nb/privacy/">
+    
+    <link rel="alternate" hreflang="pl" href="https://analyticszone.app/pl/privacy/">
+    
     <link rel="alternate" hreflang="x-default" href="https://analyticszone.app/en/privacy/">
 
     
@@ -96,7 +104,13 @@
         <div class="header-inner">
             
             <a href="/nl/" class="site-logo">
-                <span class="logo-text">AnalyticsZone</span>
+                <picture>
+                    
+                    <source srcset="/assets/images/logo-dark.png" type="image/png" media="(prefers-color-scheme: dark)">
+                    
+                    <img src="/assets/images/logo.png" alt="AnalyticsZone - Privacy-First Sports Analytics Applications" width="56" height="56">
+                </picture>
+                <span class="logo-text"></span>
             </a>
 
             
@@ -104,55 +118,53 @@
                 <ul>
                     
                     <li>
-                        <a href="/nl/"
-                           
-                           aria-current="">
+                        
+                        
+                        <a href="/nl/"  aria-current="">
                             Home
                         </a>
-                    </li>
-                    
+                        
+                        </li>
+                        
                     <li>
-                        <a href="/nl/technology/"
-                           
-                           aria-current="">
+                        
+                        
+                        <a href="/nl/technology/"  aria-current="">
                             Technologie
                         </a>
-                    </li>
-                    
+                        
+                        </li>
+                        
                     <li>
-                        <a href="/nl/about/"
-                           
-                           aria-current="">
+                        
+                        
+                        <a href="/nl/about/"  aria-current="">
                             Over ons
                         </a>
-                    </li>
-                    
+                        
+                        </li>
+                        
                     <li>
-                        <a href="/nl/contact/"
-                           
-                           aria-current="">
+                        
+                        
+                        <a href="/nl/contact/"  aria-current="">
                             Contact
                         </a>
-                    </li>
-                    
+                        
+                        </li>
+                        
                 </ul>
 
                 
                 <div class="search-container">
-                    <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18"
+                        viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round" aria-hidden="true">
                         <circle cx="11" cy="11" r="8"></circle>
                         <path d="m21 21-4.35-4.35"></path>
                     </svg>
-                    <input
-                        type="search"
-                        id="site-search"
-                        class="search-input"
-                        aria-expanded="false"
-                        aria-haspopup="listbox"
-                        aria-autocomplete="list"
-                        autocomplete="off"
-                        spellcheck="false"
-                    />
+                    <input type="search" id="site-search" class="search-input" aria-expanded="false"
+                        aria-haspopup="listbox" aria-autocomplete="list" autocomplete="off" spellcheck="false" />
                     <div id="search-results" class="search-results hidden" role="region" aria-live="polite"></div>
                 </div>
 
@@ -187,12 +199,28 @@
                         日本語
                     </option>
                     
+                    <option value="ko" >
+                        한국어
+                    </option>
+                    
+                    <option value="nb" >
+                        Norsk Bokmål
+                    </option>
+                    
                     <option value="nl" selected>
                         Nederlands
                     </option>
                     
+                    <option value="pl" >
+                        Polski
+                    </option>
+                    
                     <option value="pt" >
                         Português
+                    </option>
+                    
+                    <option value="sv" >
+                        Svenska
                     </option>
                     
                     <option value="zh" >
@@ -200,10 +228,37 @@
                     </option>
                     
                 </select>
+
+                
+                <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode"
+                    title="Toggle dark/light mode">
+                    <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                    <svg class="moon-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                </button>
+
+                
+                
             </nav>
 
             
-            <button class="menu-toggle" id="menu-toggle" aria-label="Menu omschakelen" aria-expanded="false" aria-controls="nav-primary">
+            <button class="menu-toggle" id="menu-toggle" aria-label="Menu omschakelen"
+                aria-expanded="false" aria-controls="nav-primary">
                 <span></span>
                 <span></span>
                 <span></span>
@@ -218,106 +273,117 @@
 
 <section class="section">
     <div class="container container-narrow">
-        <h1 class="mb-lg">Privacy Policy</h1>
+        <h1 class="mb-lg">Privacybeleid</h1>
 
-        <p class="text-secondary mb-xl">Last updated: <strong>January 2024</strong></p>
+        <p class="text-secondary mb-xl">Laatst bijgewerkt: <strong>Januari 2024</strong></p>
 
         <div class="mb-xl">
-            <h2 class="mb-md">Introduction</h2>
+            <h2 class="mb-md">Inleiding</h2>
             <p class="mb-md">
-                This Privacy Policy describes how we collect, use, and protect your personal information when you visit our website.
+                Dit Privacybeleid beschrijft hoe wij uw persoonlijke informatie verzamelen, gebruiken en beschermen
+                wanneer u onze website bezoekt.
             </p>
             <p class="mb-md">
-                We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner.
+                Wij zetten ons in om uw privacy te beschermen en ervoor te zorgen dat uw persoonlijke informatie op een
+                veilige en verantwoorde manier wordt behandeld.
             </p>
         </div>
 
         <div class="mb-xl">
-            <h2 class="mb-md">Information We Collect</h2>
-            <h3 class="mb-sm">Information you provide directly:</h3>
+            <h2 class="mb-md">Informatie die wij verzamelen</h2>
+            <h3 class="mb-sm">Informatie die u direct verstrekt:</h3>
             <ul class="mb-md">
-                <li>Contact information (name, email) when you use our contact form</li>
-                <li>Any other information you choose to provide</li>
+                <li>Contactinformatie (naam, e-mail) wanneer u ons contactformulier gebruikt</li>
+                <li>Alle andere informatie die u verkiest te verstrekken</li>
             </ul>
 
-            <h3 class="mb-sm">Information collected automatically:</h3>
+            <h3 class="mb-sm">Automatisch verzamelde informatie:</h3>
             <ul class="mb-md">
-                <li>Browser type and version</li>
-                <li>Operating system</li>
-                <li>Pages visited and time spent on pages</li>
-                <li>IP address (anonymized)</li>
+                <li>Browsertype en -versie</li>
+                <li>Besturingssysteem</li>
+                <li>Bezochte pagina's en tijd doorgebracht op pagina's</li>
+                <li>IP-adres (geanonimiseerd)</li>
             </ul>
         </div>
 
         <div class="mb-xl">
-            <h2 class="mb-md">How We Use Your Information</h2>
-            <p class="mb-sm">We use the information we collect to:</p>
+            <h2 class="mb-md">Hoe wij uw informatie gebruiken</h2>
+            <p class="mb-sm">Wij gebruiken de verzamelde informatie om:</p>
             <ul class="mb-md">
-                <li>Respond to your inquiries and requests</li>
-                <li>Improve our website and services</li>
-                <li>Analyze how our website is used</li>
-                <li>Ensure the security and integrity of our website</li>
+                <li>Te reageren op uw vragen en verzoeken</li>
+                <li>Onze website en diensten te verbeteren</li>
+                <li>Te analyseren hoe onze website wordt gebruikt</li>
+                <li>De veiligheid en integriteit van onze website te waarborgen</li>
             </ul>
         </div>
 
         <div class="mb-xl">
             <h2 class="mb-md">Cookies</h2>
             <p class="mb-md">
-                We use cookies to improve your experience on our website. Cookies are small text files stored on your device that help us understand how you use our site.
+                Wij gebruiken cookies om uw ervaring op onze website te verbeteren. Cookies zijn kleine tekstbestanden
+                die op uw apparaat worden opgeslagen en ons helpen begrijpen hoe u onze site gebruikt.
             </p>
-            <p class="mb-sm">We use the following types of cookies:</p>
+            <p class="mb-sm">Wij gebruiken de volgende soorten cookies:</p>
             <ul class="mb-md">
-                <li><strong>Essential cookies:</strong> Required for the website to function properly</li>
-                <li><strong>Analytics cookies:</strong> Help us understand how visitors interact with our website (only with your consent)</li>
+                <li><strong>Essentiële cookies:</strong> Vereist voor het correct functioneren van de website</li>
+                <li><strong>Analyse-cookies:</strong> Helpen ons begrijpen hoe bezoekers met onze website omgaan (alleen
+                    met uw toestemming)</li>
             </ul>
             <p class="mb-md">
-                You can control cookies through your browser settings. Please note that disabling cookies may affect the functionality of our website.
+                U kunt cookies beheren via uw browserinstellingen. Houd er rekening mee dat het uitschakelen van cookies
+                de functionaliteit van onze website kan beïnvloeden.
             </p>
         </div>
 
         <div class="mb-xl">
-            <h2 class="mb-md">Third-Party Services</h2>
+            <h2 class="mb-md">Diensten van derden</h2>
             <p class="mb-md">
-                We may use third-party services such as Google Analytics to help us analyze website traffic. These services may collect information about your use of our website.
+                Wij kunnen diensten van derden gebruiken, zoals Google Analytics, om ons te helpen bij het analyseren
+                van websiteverkeer. Deze diensten kunnen informatie verzamelen over uw gebruik van onze website.
             </p>
             <p class="mb-md">
-                These third parties have their own privacy policies, and we encourage you to review them.
-            </p>
-        </div>
-
-        <div class="mb-xl">
-            <h2 class="mb-md">Data Security</h2>
-            <p class="mb-md">
-                We implement appropriate technical and organizational measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction.
+                Deze derde partijen hebben hun eigen privacybeleid en wij raden u aan dit te lezen.
             </p>
         </div>
 
         <div class="mb-xl">
-            <h2 class="mb-md">Your Rights</h2>
-            <p class="mb-sm">You have the right to:</p>
+            <h2 class="mb-md">Gegevensbeveiliging</h2>
+            <p class="mb-md">
+                Wij implementeren passende technische en organisatorische maatregelen om uw persoonlijke informatie te
+                beschermen tegen ongeoorloofde toegang, wijziging, openbaarmaking of vernietiging.
+            </p>
+        </div>
+
+        <div class="mb-xl">
+            <h2 class="mb-md">Uw rechten</h2>
+            <p class="mb-sm">U heeft het recht om:</p>
             <ul class="mb-md">
-                <li>Access your personal information</li>
-                <li>Correct inaccurate information</li>
-                <li>Request deletion of your information</li>
-                <li>Withdraw consent for data processing</li>
-                <li>Object to processing of your information</li>
+                <li>Toegang te krijgen tot uw persoonlijke informatie</li>
+                <li>Onjuiste informatie te corrigeren</li>
+                <li>Verwijdering van uw informatie te verzoeken</li>
+                <li>Toestemming voor gegevensverwerking in te trekken</li>
+                <li>Bezwaar te maken tegen de verwerking van uw informatie</li>
             </ul>
             <p class="mb-md">
-                To exercise these rights, please contact us using the information provided on our <a href="/en/contact/">contact page</a>.
+                Om deze rechten uit te oefenen, neem contact met ons op via de informatie op onze <a
+                    href="/nl/contact/">contactpagina</a>.
             </p>
         </div>
 
         <div class="mb-xl">
-            <h2 class="mb-md">Changes to This Policy</h2>
+            <h2 class="mb-md">Wijzigingen in dit beleid</h2>
             <p class="mb-md">
-                We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page with an updated "Last updated" date.
+                Wij kunnen dit Privacybeleid van tijd tot tijd bijwerken. Wij zullen u op de hoogte stellen van
+                eventuele wijzigingen door het nieuwe beleid op deze pagina te plaatsen met een bijgewerkte datum
+                "Laatst bijgewerkt".
             </p>
         </div>
 
         <div class="callout callout-info">
-            <h2 class="mb-sm">Questions?</h2>
+            <h2 class="mb-sm">Vragen?</h2>
             <p>
-                If you have any questions about this Privacy Policy, please <a href="/en/contact/">contact us</a>.
+                Als u vragen heeft over dit Privacybeleid, <a href="/nl/contact/">neem dan contact met ons
+                    op</a>.
             </p>
         </div>
     </div>
@@ -377,6 +443,22 @@
                     
                     <li>
                         <a href="/zh/">中文</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/ko/">한국어</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/sv/">Svenska</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/nb/">Norsk Bokmål</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/pl/">Polski</a>
                     </li>
                     
                 </ul>

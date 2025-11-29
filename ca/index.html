@@ -66,6 +66,14 @@
     
     <link rel="alternate" hreflang="zh" href="https://analyticszone.app/zh/">
     
+    <link rel="alternate" hreflang="ko" href="https://analyticszone.app/ko/">
+    
+    <link rel="alternate" hreflang="sv" href="https://analyticszone.app/sv/">
+    
+    <link rel="alternate" hreflang="nb" href="https://analyticszone.app/nb/">
+    
+    <link rel="alternate" hreflang="pl" href="https://analyticszone.app/pl/">
+    
     <link rel="alternate" hreflang="x-default" href="https://analyticszone.app/en/">
 
     
@@ -114,7 +122,13 @@
         <div class="header-inner">
             
             <a href="/ca/" class="site-logo">
-                <span class="logo-text">AnalyticsZone</span>
+                <picture>
+                    
+                    <source srcset="/assets/images/logo-dark.png" type="image/png" media="(prefers-color-scheme: dark)">
+                    
+                    <img src="/assets/images/logo.png" alt="AnalyticsZone - Privacy-First Sports Analytics Applications" width="56" height="56">
+                </picture>
+                <span class="logo-text"></span>
             </a>
 
             
@@ -122,55 +136,53 @@
                 <ul>
                     
                     <li>
-                        <a href="/ca/"
-                           
-                           aria-current="">
+                        
+                        
+                        <a href="/ca/"  aria-current="">
                             Inici
                         </a>
-                    </li>
-                    
+                        
+                        </li>
+                        
                     <li>
-                        <a href="/ca/technology/"
-                           
-                           aria-current="">
+                        
+                        
+                        <a href="/ca/technology/"  aria-current="">
                             Tecnologia
                         </a>
-                    </li>
-                    
+                        
+                        </li>
+                        
                     <li>
-                        <a href="/ca/about/"
-                           
-                           aria-current="">
+                        
+                        
+                        <a href="/ca/about/"  aria-current="">
                             Sobre Nosaltres
                         </a>
-                    </li>
-                    
+                        
+                        </li>
+                        
                     <li>
-                        <a href="/ca/contact/"
-                           
-                           aria-current="">
+                        
+                        
+                        <a href="/ca/contact/"  aria-current="">
                             Contacte
                         </a>
-                    </li>
-                    
+                        
+                        </li>
+                        
                 </ul>
 
                 
                 <div class="search-container">
-                    <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18"
+                        viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round" aria-hidden="true">
                         <circle cx="11" cy="11" r="8"></circle>
                         <path d="m21 21-4.35-4.35"></path>
                     </svg>
-                    <input
-                        type="search"
-                        id="site-search"
-                        class="search-input"
-                        aria-expanded="false"
-                        aria-haspopup="listbox"
-                        aria-autocomplete="list"
-                        autocomplete="off"
-                        spellcheck="false"
-                    />
+                    <input type="search" id="site-search" class="search-input" aria-expanded="false"
+                        aria-haspopup="listbox" aria-autocomplete="list" autocomplete="off" spellcheck="false" />
                     <div id="search-results" class="search-results hidden" role="region" aria-live="polite"></div>
                 </div>
 
@@ -205,12 +217,28 @@
                         日本語
                     </option>
                     
+                    <option value="ko" >
+                        한국어
+                    </option>
+                    
+                    <option value="nb" >
+                        Norsk Bokmål
+                    </option>
+                    
                     <option value="nl" >
                         Nederlands
                     </option>
                     
+                    <option value="pl" >
+                        Polski
+                    </option>
+                    
                     <option value="pt" >
                         Português
+                    </option>
+                    
+                    <option value="sv" >
+                        Svenska
                     </option>
                     
                     <option value="zh" >
@@ -218,10 +246,37 @@
                     </option>
                     
                 </select>
+
+                
+                <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode"
+                    title="Toggle dark/light mode">
+                    <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                    <svg class="moon-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                </button>
+
+                
+                
             </nav>
 
             
-            <button class="menu-toggle" id="menu-toggle" aria-label="Alternar menú" aria-expanded="false" aria-controls="nav-primary">
+            <button class="menu-toggle" id="menu-toggle" aria-label="Alternar menú"
+                aria-expanded="false" aria-controls="nav-primary">
                 <span></span>
                 <span></span>
                 <span></span>
@@ -254,14 +309,14 @@
     <p class="text-center text-secondary mb-2xl max-w-prose">Analítiques professionals per a cada disciplina</p>
 
     <div class="apps-grid">
-      <!-- RunAnalytics -->
+      <!-- Run Analytics -->
       <article class="app-card app-card-run">
         <div class="app-icon-large mb-md">
           <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/>
           </svg>
         </div>
-        <h3 class="app-title">RunAnalytics</h3>
+        <h3 class="app-title">Run Analytics</h3>
         <p class="app-tagline">VO₂max · Risc de Lesió · Seguiment del Rendiment</p>
         <p class="app-description">Analítiques de córrer basades en ciència per córrer més ràpid, més segur i més intel·ligent.</p>
         <ul class="app-features">
@@ -276,7 +331,7 @@
         <a href="https://run.analyticszone.app" class="btn btn-app" target="_blank" rel="noopener">Comença a Analitzar</a>
       </article>
 
-      <!-- SwimAnalytics -->
+      <!-- Swim Analytics -->
       <article class="app-card app-card-swim">
         <div class="app-icon-large mb-md">
           <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -284,7 +339,7 @@
             <path d="M2 9c.6.5 1.2 1 2.5 1 2 0 3.5-1.5 3.5-1.5S9.5 10 11.5 10c2 0 3.5-1.5 3.5-1.5s1.5 1.5 3.5 1.5c1.3 0 1.9-.5 2.5-1"/>
           </svg>
         </div>
-        <h3 class="app-title">SwimAnalytics</h3>
+        <h3 class="app-title">Swim Analytics</h3>
         <p class="app-tagline">Anàlisi de Braçades · Eficiència · Zones d&#39;Entrenament</p>
         <p class="app-description">Optimitza la teva tècnica de natació i segueix la progressió del teu fitness aquàtic.</p>
         <ul class="app-features">
@@ -299,7 +354,7 @@
         <a href="https://swim.analyticszone.app" class="btn btn-app" target="_blank" rel="noopener">Comença a Analitzar</a>
       </article>
 
-      <!-- BikeAnalytics -->
+      <!-- Bike Analytics -->
       <article class="app-card app-card-bike">
         <div class="app-icon-large mb-md">
           <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -309,7 +364,7 @@
             <path d="M12 17.5V14l-3-3 4-3 2 3h2"/>
           </svg>
         </div>
-        <h3 class="app-title">BikeAnalytics</h3>
+        <h3 class="app-title">Bike Analytics</h3>
         <p class="app-tagline">Zones de Potència · FTP · Analítiques de Rendiment</p>
         <p class="app-description">Informació basada en potència per maximitzar el teu rendiment ciclista i resistència.</p>
         <ul class="app-features">
@@ -324,7 +379,7 @@
         <a href="https://bike.analyticszone.app" class="btn btn-app" target="_blank" rel="noopener">Comença a Analitzar</a>
       </article>
 
-      <!-- WalkAnalytics -->
+      <!-- Walk Analytics -->
       <article class="app-card app-card-walk">
         <div class="app-icon-large mb-md">
           <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -334,7 +389,7 @@
             <path d="m6 16-2 4"/>
           </svg>
         </div>
-        <h3 class="app-title">WalkAnalytics</h3>
+        <h3 class="app-title">Walk Analytics</h3>
         <p class="app-tagline">Mètriques de Salut · Cardiovascular · Seguiment de Fitness</p>
         <p class="app-description">Converteix les teves caminades diàries en potents insights de salut i fitness.</p>
         <ul class="app-features">
@@ -462,6 +517,22 @@
                     
                     <li>
                         <a href="/zh/">中文</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/ko/">한국어</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/sv/">Svenska</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/nb/">Norsk Bokmål</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/pl/">Polski</a>
                     </li>
                     
                 </ul>
