@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://analyticszone.app/sitemap.xml
+
+# llms.txt: https://analyticszone.app/llms.txt

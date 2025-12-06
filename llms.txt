@@ -1,0 +1,30 @@
+# AnalyticsZone
+
+> Privacy-First Sports Analytics Applications
+
+AnalyticsZone is a suite of professional sports analytics applications for running, swimming, cycling, and walking. We provide privacy-first, scientifically-backed tools for athletes and coaches to track performance, analyze training data, and optimize athletic progression.
+
+## Sites
+
+- [Main Site](https://analyticszone.app)
+- [Run Analytics](https://run.analyticszone.app)
+- [Bike Analytics](https://bike.analyticszone.app)
+- [Swim Analytics](https://swim.analyticszone.app)
+- [Walk Analytics](https://walk.analyticszone.app)
+- [Cardio Analytics](https://cardio.analyticszone.app)
+
+## Core Features
+
+- **Privacy First**: All data processing happens locally on your device. No cloud uploads.
+- **Scientific Metrics**: Based on peer-reviewed sports science (Critical Power, TSS, TRIMP).
+- **Multi-Platform**: Available on iOS and WatchOS.
+
+## Documentation
+
+- [Privacy Policy](https://analyticszone.app/en/privacy/)
+- [Terms of Service](https://analyticszone.app/en/terms/)
+- [Technology](https://analyticszone.app/en/technology/)
+
+## Contact
+
+- Email: analyticszone@onmedic.org
