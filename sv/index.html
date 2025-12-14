@@ -581,186 +581,155 @@ img[width][height] {
 
   
   <main id="main-content" class="main-content">
-    <!-- Hero Section -->
-<section class="hero hero-gradient">
-    <div class="container">
-        <div class="hero-content">
-            <h1 class="hero-title">Din hälsa i siffror. Dina framsteg i data.</h1>
-            <p class="hero-subtitle">Förvandla varje träningspass till handlingsbara insikter</p>
-            <p class="hero-description">Professionell sportanalys som ger dig vetenskapligt underbyggda mätvärden. Spåra prestationer, förebygg skador och optimera din hälsa – allt medan din data förblir 100 % privat.</p>
-            <div class="hero-ctas">
-                <a href="#solutions" class="btn btn-primary btn-large">Välj din sport</a>
-                <a href="/sv/technology/" class="btn btn-secondary btn-large">Se vetenskapen</a>
-            </div>
-        </div>
+    <!-- Hero Section: Impact & Data Passion -->
+<section class="hero hero-impact">
+  <div class="hero-overlay"></div>
+  <div class="container relative z-10">
+    <div class="hero-content text-center">
+
+      <!-- Pulse Data Visual (CSS Effect) -->
+      <div class="pulse-logo-container mb-lg">
+        <div class="pulse-core"></div>
+        <div class="pulse-ring ring-1"></div>
+        <div class="pulse-ring ring-2"></div>
+        <div class="pulse-ring ring-3"></div>
+      </div>
+
+      <h1 class="hero-title scroll-reveal">Din hälsa i siffror. Dina framsteg i data.</h1>
+      <p class="hero-subtitle scroll-reveal delay-1">Förvandla varje träningspass till handlingsbara insikter</p>
+
+      <div class="hero-ctas scroll-reveal delay-2">
+        <a href="#app-hub" class="btn btn-primary btn-large">Välj din sport</a>
+      </div>
     </div>
+  </div>
 </section>
 
-<!-- Solutions Section -->
-<section id="solutions" class="section">
-    <div class="container">
-        <h2 class="text-center mb-md">Välj din sport</h2>
-        <p class="text-center text-secondary mb-2xl max-w-prose">Professionell analys för varje disciplin</p>
-
-        <div class="apps-grid">
-            <!-- Run Analytics -->
-            <article class="app-card app-card-run">
-                <div class="app-icon-large mb-md">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none"
-                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                        <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z" />
-                    </svg>
-                </div>
-                <h3 class="app-title">Run Analytics</h3>
-                <p class="app-tagline">VO₂max · Skaderisk · Prestationsspårning</p>
-                <p class="app-description">Vetenskapligt underbyggd löpningsanalys som hjälper dig att springa snabbare, säkrare och smartare.</p>
-                <ul class="app-features">
-                    
-                    <li>Detektering av skaderisk</li>
-                    
-                    <li>Spårning av prestationsutveckling</li>
-                    
-                    <li>Vetenskapliga träningsmätvärden</li>
-                    
-                </ul>
-                <a href="https://run.analyticszone.app" class="btn btn-app" target="_blank" rel="noopener">Börja analysera</a>
-            </article>
-
-            <!-- Swim Analytics -->
-            <article class="app-card app-card-swim">
-                <div class="app-icon-large mb-md">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none"
-                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                        <path
-                            d="M2 15c.6.5 1.2 1 2.5 1 2 0 3.5-1.5 3.5-1.5s1.5 1.5 3.5 1.5c2 0 3.5-1.5 3.5-1.5s1.5 1.5 3.5 1.5c1.3 0 1.9-.5 2.5-1" />
-                        <path
-                            d="M2 9c.6.5 1.2 1 2.5 1 2 0 3.5-1.5 3.5-1.5S9.5 10 11.5 10c2 0 3.5-1.5 3.5-1.5s1.5 1.5 3.5 1.5c1.3 0 1.9-.5 2.5-1" />
-                    </svg>
-                </div>
-                <h3 class="app-title">Swim Analytics</h3>
-                <p class="app-tagline">Simtagsanalys · Effektivitet · Träningszoner</p>
-                <p class="app-description">Optimera din simteknik och spåra din utveckling i vattnet.</p>
-                <ul class="app-features">
-                    
-                    <li>Detektering av skaderisk</li>
-                    
-                    <li>Spårning av prestationsutveckling</li>
-                    
-                    <li>Vetenskapliga träningsmätvärden</li>
-                    
-                </ul>
-                <a href="https://swim.analyticszone.app" class="btn btn-app" target="_blank" rel="noopener">Börja analysera</a>
-            </article>
-
-            <!-- Bike Analytics -->
-            <article class="app-card app-card-bike">
-                <div class="app-icon-large mb-md">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none"
-                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                        <circle cx="18.5" cy="17.5" r="3.5" />
-                        <circle cx="5.5" cy="17.5" r="3.5" />
-                        <circle cx="15" cy="5" r="1" />
-                        <path d="M12 17.5V14l-3-3 4-3 2 3h2" />
-                    </svg>
-                </div>
-                <h3 class="app-title">Bike Analytics</h3>
-                <p class="app-tagline">Kraftzoner · FTP · Prestationsanalys</p>
-                <p class="app-description">Kraftbaserade insikter för att maximera din cykelprestation och uthållighet.</p>
-                <ul class="app-features">
-                    
-                    <li>Detektering av skaderisk</li>
-                    
-                    <li>Spårning av prestationsutveckling</li>
-                    
-                    <li>Vetenskapliga träningsmätvärden</li>
-                    
-                </ul>
-                <a href="https://bike.analyticszone.app" class="btn btn-app" target="_blank" rel="noopener">Börja analysera</a>
-            </article>
-
-            <!-- Walk Analytics -->
-            <article class="app-card app-card-walk">
-                <div class="app-icon-large mb-md">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none"
-                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                        <circle cx="12" cy="5" r="2" />
-                        <path d="m9 20 3-6 2 4 2-2" />
-                        <path d="M9 20H4" />
-                        <path d="m6 16-2 4" />
-                    </svg>
-                </div>
-                <h3 class="app-title">Walk Analytics</h3>
-                <p class="app-tagline">Hälsomätvärden · Kardiovaskulär · Fitness-spårning</p>
-                <p class="app-description">Förvandla dina dagliga promenader till kraftfulla hälso- och fitnessinsikter.</p>
-                <ul class="app-features">
-                    
-                    <li>Detektering av skaderisk</li>
-                    
-                    <li>Spårning av prestationsutveckling</li>
-                    
-                    <li>Vetenskapliga träningsmätvärden</li>
-                    
-                </ul>
-                <a href="https://walk.analyticszone.app" class="btn btn-app" target="_blank" rel="noopener">Börja analysera</a>
-            </article>
-        </div>
+<!-- App Hub Section -->
+<section id="app-hub" class="section app-hub-section">
+  <div class="container">
+    <div class="section-header text-center mb-3xl scroll-reveal">
+      <h2 class="section-title">AnalyticsZone Ekosystem</h2>
+      <p class="section-subtitle">Specialiserade verktyg för varje disciplin, förenade av data.</p>
     </div>
+
+    <div class="apps-grid">
+      <!-- Run Analytics -->
+      <article class="app-card app-card-run scroll-reveal delay-1">
+        <div class="app-card-content">
+          <div class="app-icon-wrapper run-glow">
+            <img src="/assets/images/run.png" alt="Run Analytics" class="app-icon-img">
+          </div>
+          <h3 class="app-title">Run Analytics</h3>
+          <p class="app-tagline">VO₂max · Skaderisk · Prestationsspårning</p>
+          <a href="https://run.analyticszone.app" class="btn btn-app btn-run" target="_blank" rel="noopener">
+            <span>Börja analysera</span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none"
+              stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12h14" />
+              <path d="m12 5 7 7-7 7" />
+            </svg>
+          </a>
+        </div>
+        <div class="app-bg-glow run-bg"></div>
+      </article>
+
+      <!-- Swim Analytics -->
+      <article class="app-card app-card-swim scroll-reveal delay-2">
+        <div class="app-card-content">
+          <div class="app-icon-wrapper swim-glow">
+            <img src="/assets/images/swim.png" alt="Swim Analytics" class="app-icon-img">
+          </div>
+          <h3 class="app-title">Swim Analytics</h3>
+          <p class="app-tagline">Simtagsanalys · Effektivitet · Träningszoner</p>
+          <a href="https://swim.analyticszone.app" class="btn btn-app btn-swim" target="_blank" rel="noopener">
+            <span>Börja analysera</span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none"
+              stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12h14" />
+              <path d="m12 5 7 7-7 7" />
+            </svg>
+          </a>
+        </div>
+        <div class="app-bg-glow swim-bg"></div>
+      </article>
+
+      <!-- Bike Analytics -->
+      <article class="app-card app-card-bike scroll-reveal delay-3">
+        <div class="app-card-content">
+          <div class="app-icon-wrapper bike-glow">
+            <img src="/assets/images/bike.png" alt="Bike Analytics" class="app-icon-img">
+          </div>
+          <h3 class="app-title">Bike Analytics</h3>
+          <p class="app-tagline">Kraftzoner · FTP · Prestationsanalys</p>
+          <a href="https://bike.analyticszone.app" class="btn btn-app btn-bike" target="_blank" rel="noopener">
+            <span>Börja analysera</span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none"
+              stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12h14" />
+              <path d="m12 5 7 7-7 7" />
+            </svg>
+          </a>
+        </div>
+        <div class="app-bg-glow bike-bg"></div>
+      </article>
+
+      <!-- Walk Analytics -->
+      <article class="app-card app-card-walk scroll-reveal delay-4">
+        <div class="app-card-content">
+          <div class="app-icon-wrapper walk-glow">
+            <img src="/assets/images/walk.png" alt="Walk Analytics" class="app-icon-img">
+          </div>
+          <h3 class="app-title">Walk Analytics</h3>
+          <p class="app-tagline">Hälsomätvärden · Kardiovaskulär · Fitness-spårning</p>
+          <a href="https://walk.analyticszone.app" class="btn btn-app btn-walk" target="_blank" rel="noopener">
+            <span>Börja analysera</span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none"
+              stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12h14" />
+              <path d="m12 5 7 7-7 7" />
+            </svg>
+          </a>
+        </div>
+        <div class="app-bg-glow walk-bg"></div>
+      </article>
+    </div>
+  </div>
 </section>
 
-<!-- Why Data Matters Section -->
+<!-- Why Data Matters (Redesigned) -->
 <section class="section why-data-section">
-    <div class="container">
-        <h2 class="text-center mb-2xl">Varför data spelar roll</h2>
-
-        <div class="grid-3 gap-xl">
-            <div class="why-data-card">
-                <div class="why-data-icon">🎯</div>
-                <h3 class="mb-sm">Förebygg skador</h3>
-                <p class="text-secondary">Våra algoritmer upptäckte överträning 2 veckor innan skada</p>
-            </div>
-
-            <div class="why-data-card">
-                <div class="why-data-icon">📈</div>
-                <h3 class="mb-sm">Spåra framsteg</h3>
-                <p class="text-secondary">Se din fitnessålder minska månad för månad</p>
-            </div>
-
-            <div class="why-data-card">
-                <div class="why-data-icon">🔬</div>
-                <h3 class="mb-sm">Optimera hälsa</h3>
-                <p class="text-secondary">Vet exakt när du toppar eller behöver återhämtning</p>
-            </div>
-        </div>
+  <div class="container">
+    <div class="section-header text-center mb-3xl scroll-reveal">
+      <h2 class="section-title">Varför data spelar roll</h2>
     </div>
-</section>
-
-<!-- Trust Indicators Section -->
-<section class="section trust-section">
-    <div class="container">
-        <div class="trust-grid">
-            <div class="trust-item">
-                <div class="trust-icon">📚</div>
-                <p>Uppbackad av 50+ peer-reviewed studier</p>
-            </div>
-            <div class="trust-item">
-                <div class="trust-icon">🔒</div>
-                <p>Noll molnberoende - Din data förblir din</p>
-            </div>
-            <div class="trust-item">
-                <div class="trust-icon">📤</div>
-                <p>Exportera allt - Ingen inlåsning</p>
-            </div>
-        </div>
+    <div class="grid-3 gap-xl">
+      <div class="feature-card scroll-reveal">
+        <div class="feature-icon">🎯</div>
+        <h3>Precision</h3>
+        <p>Medicinsk precision för dina träningsmätvärden.</p>
+      </div>
+      <div class="feature-card scroll-reveal delay-1">
+        <div class="feature-icon">⚡</div>
+        <h3>Realtid</h3>
+        <p>Live-feedback för att justera din prestation omedelbart.</p>
+      </div>
+      <div class="feature-card scroll-reveal delay-2">
+        <div class="feature-icon">🔒</div>
+        <h3>Integritet först</h3>
+        <p>Din data stannar på din enhet. Noll molnberoende.</p>
+      </div>
     </div>
+  </div>
 </section>
 
 <!-- CTA Section -->
 <section class="section cta-final-section">
-    <div class="container text-center">
-        <h2 class="mb-md">Redo att lyfta din träning?</h2>
-        <p class="text-lg mb-lg max-w-prose">Välj den sportspecifika analysapplikationen som passar dina idrottsliga mål.</p>
-        <a href="#solutions" class="btn btn-primary btn-large">Kom igång</a>
-    </div>
+  <div class="container text-center">
+    <h2 class="mb-md scroll-reveal">Redo att gå djupare?</h2>
+    <p class="text-lg mb-lg max-w-prose scroll-reveal delay-1">Välj din sport och börja analysera med den transparens och noggrannhet du förtjänar.</p>
+    <a href="#app-hub" class="btn btn-primary btn-large scroll-reveal delay-2">Utforska våra appar</a>
+  </div>
 </section>
   </main>
 

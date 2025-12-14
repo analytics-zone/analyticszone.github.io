@@ -579,179 +579,154 @@ img[width][height] {
 
   
   <main id="main-content" class="main-content">
-    <!-- Hero Section -->
-<section class="hero">
-  <div class="container">
-    <div class="hero-content">
-      <h1 class="hero-title">Applicazioni Professionali di Analisi Sportiva</h1>
-      <p class="hero-subtitle">Trasforma le Tue Prestazioni Atletiche con Tecnologia Privacy-First</p>
-      <p class="hero-description">AnalyticsZone offre applicazioni di analisi specializzate per corridori, nuotatori, ciclisti e camminatori. La nostra suite di strumenti fornisce insights approfonditi sulle tue metriche di allenamento, ottimizzazione delle prestazioni e progressione atletica—tutto mantenendo i tuoi dati completamente privati e sicuri sul tuo dispositivo.</p>
-      <a href="#solutions" class="btn btn-primary btn-large"></a>
+    <!-- Hero Section: Impact & Data Passion -->
+<section class="hero hero-impact">
+  <div class="hero-overlay"></div>
+  <div class="container relative z-10">
+    <div class="hero-content text-center">
+
+      <!-- Pulse Data Visual (CSS Effect) -->
+      <div class="pulse-logo-container mb-lg">
+        <div class="pulse-core"></div>
+        <div class="pulse-ring ring-1"></div>
+        <div class="pulse-ring ring-2"></div>
+        <div class="pulse-ring ring-3"></div>
+      </div>
+
+      <h1 class="hero-title scroll-reveal">Applicazioni Professionali di Analisi Sportiva</h1>
+      <p class="hero-subtitle scroll-reveal delay-1">Trasforma le Tue Prestazioni Atletiche con Tecnologia Privacy-First</p>
+
+      <div class="hero-ctas scroll-reveal delay-2">
+        <a href="#app-hub" class="btn btn-primary btn-large">Esplora le Nostre Soluzioni</a>
+      </div>
     </div>
   </div>
 </section>
 
-<!-- Solutions Section -->
-<section id="solutions" class="section">
+<!-- App Hub Section -->
+<section id="app-hub" class="section app-hub-section">
   <div class="container">
-    <h2 class="text-center mb-md">Applicazioni di Analisi Specifiche per Sport</h2>
-    <p class="text-center text-secondary mb-2xl max-w-prose">Scegli lo strumento specializzato progettato per la tua disciplina atletica</p>
+    <div class="section-header text-center mb-3xl scroll-reveal">
+      <h2 class="section-title">L&#39;Ecosistema AnalyticsZone</h2>
+      <p class="section-subtitle">Strumenti specializzati per ogni disciplina, uniti dai dati.</p>
+    </div>
 
-    <div class="grid-2 gap-xl">
+    <div class="apps-grid">
       <!-- Run Analytics -->
-      <article class="card">
-        <div class="app-icon mb-md">
-          <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/>
-          </svg>
+      <article class="app-card app-card-run scroll-reveal delay-1">
+        <div class="app-card-content">
+          <div class="app-icon-wrapper run-glow">
+            <img src="/assets/images/run.png" alt="Run Analytics" class="app-icon-img">
+          </div>
+          <h3 class="app-title">Run Analytics</h3>
+          <p class="app-tagline">Analisi Avanzata della Corsa</p>
+          <a href="https://run.analyticszone.app" class="btn btn-app btn-run" target="_blank" rel="noopener">
+            <span>Esplora Analisi Corsa</span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none"
+              stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12h14" />
+              <path d="m12 5 7 7-7 7" />
+            </svg>
+          </a>
         </div>
-        <h3 class="card-title">Run Analytics</h3>
-        <p class="text-sm text-secondary mb-sm">Analisi Avanzata della Corsa</p>
-        <p class="mb-md">Zone di allenamento complete, monitoraggio VO2max, pianificazione gare e metriche delle prestazioni basate su ricerca scientifica.</p>
-        <ul class="mb-lg">
-          
-          <li class="mb-sm">Calcolo zone di allenamento (Coggan, Daniels, Seiler)</li>
-          
-          <li class="mb-sm">Analisi VO2max e soglia del lattato</li>
-          
-          <li class="mb-sm">Periodizzazione maratona e carico di allenamento</li>
-          
-          <li class="mb-sm">Economia di corsa e insights biomeccanici</li>
-          
-        </ul>
-        <a href="https://run.analyticszone.app" class="btn btn-secondary" target="_blank" rel="noopener">Esplora Analisi Corsa</a>
+        <div class="app-bg-glow run-bg"></div>
       </article>
 
       <!-- Swim Analytics -->
-      <article class="card">
-        <div class="app-icon mb-md">
-          <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M2 15c.6.5 1.2 1 2.5 1 2 0 3.5-1.5 3.5-1.5s1.5 1.5 3.5 1.5c2 0 3.5-1.5 3.5-1.5s1.5 1.5 3.5 1.5c1.3 0 1.9-.5 2.5-1"/>
-            <path d="M2 9c.6.5 1.2 1 2.5 1 2 0 3.5-1.5 3.5-1.5S9.5 10 11.5 10c2 0 3.5-1.5 3.5-1.5s1.5 1.5 3.5 1.5c1.3 0 1.9-.5 2.5-1"/>
-          </svg>
+      <article class="app-card app-card-swim scroll-reveal delay-2">
+        <div class="app-card-content">
+          <div class="app-icon-wrapper swim-glow">
+            <img src="/assets/images/swim.png" alt="Swim Analytics" class="app-icon-img">
+          </div>
+          <h3 class="app-title">Swim Analytics</h3>
+          <p class="app-tagline">Ottimizzazione Prestazioni Nuoto</p>
+          <a href="https://swim.analyticszone.app" class="btn btn-app btn-swim" target="_blank" rel="noopener">
+            <span>Esplora Analisi Nuoto</span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none"
+              stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12h14" />
+              <path d="m12 5 7 7-7 7" />
+            </svg>
+          </a>
         </div>
-        <h3 class="card-title">Swim Analytics</h3>
-        <p class="text-sm text-secondary mb-sm">Ottimizzazione Prestazioni Nuoto</p>
-        <p class="mb-md">Analisi avanzata per miglioramento tecnica, analisi bracciata e progressione allenamento.</p>
-        <ul class="mb-lg">
-          
-          <li class="mb-sm">Metriche frequenza e efficienza bracciata</li>
-          
-          <li class="mb-sm">Monitoraggio punteggio SWOLF</li>
-          
-          <li class="mb-sm">Zone intensità allenamento per nuoto</li>
-          
-          <li class="mb-sm">Tendenze prestazioni e preparazione gare</li>
-          
-        </ul>
-        <a href="https://swim.analyticszone.app" class="btn btn-secondary" target="_blank" rel="noopener">Esplora Analisi Nuoto</a>
+        <div class="app-bg-glow swim-bg"></div>
       </article>
 
       <!-- Bike Analytics -->
-      <article class="card">
-        <div class="app-icon mb-md">
-          <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <circle cx="18.5" cy="17.5" r="3.5"/>
-            <circle cx="5.5" cy="17.5" r="3.5"/>
-            <circle cx="15" cy="5" r="1"/>
-            <path d="M12 17.5V14l-3-3 4-3 2 3h2"/>
-          </svg>
+      <article class="app-card app-card-bike scroll-reveal delay-3">
+        <div class="app-card-content">
+          <div class="app-icon-wrapper bike-glow">
+            <img src="/assets/images/bike.png" alt="Bike Analytics" class="app-icon-img">
+          </div>
+          <h3 class="app-title">Bike Analytics</h3>
+          <p class="app-tagline">Analisi Professionale Ciclismo</p>
+          <a href="https://bike.analyticszone.app" class="btn btn-app btn-bike" target="_blank" rel="noopener">
+            <span>Esplora Analisi Ciclismo</span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none"
+              stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12h14" />
+              <path d="m12 5 7 7-7 7" />
+            </svg>
+          </a>
         </div>
-        <h3 class="card-title">Bike Analytics</h3>
-        <p class="text-sm text-secondary mb-sm">Analisi Professionale Ciclismo</p>
-        <p class="mb-md">Metriche allenamento basate su potenza, analisi FTP e monitoraggio completo prestazioni ciclismo.</p>
-        <ul class="mb-lg">
-          
-          <li class="mb-sm">Distribuzione zone potenza (livelli Coggan)</li>
-          
-          <li class="mb-sm">Test FTP e monitoraggio soglia</li>
-          
-          <li class="mb-sm">Analisi Training Stress Score (TSS)</li>
-          
-          <li class="mb-sm">Efficienza ciclismo e biomeccanica</li>
-          
-        </ul>
-        <a href="https://bike.analyticszone.app" class="btn btn-secondary" target="_blank" rel="noopener">Esplora Analisi Ciclismo</a>
+        <div class="app-bg-glow bike-bg"></div>
       </article>
 
       <!-- Walk Analytics -->
-      <article class="card">
-        <div class="app-icon mb-md">
-          <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <circle cx="12" cy="5" r="2"/>
-            <path d="m9 20 3-6 2 4 2-2"/>
-            <path d="M9 20H4"/>
-            <path d="m6 16-2 4"/>
-          </svg>
+      <article class="app-card app-card-walk scroll-reveal delay-4">
+        <div class="app-card-content">
+          <div class="app-icon-wrapper walk-glow">
+            <img src="/assets/images/walk.png" alt="Walk Analytics" class="app-icon-img">
+          </div>
+          <h3 class="app-title">Walk Analytics</h3>
+          <p class="app-tagline">Analisi Fitness e Salute Camminata</p>
+          <a href="https://walk.analyticszone.app" class="btn btn-app btn-walk" target="_blank" rel="noopener">
+            <span>Esplora Analisi Camminata</span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none"
+              stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12h14" />
+              <path d="m12 5 7 7-7 7" />
+            </svg>
+          </a>
         </div>
-        <h3 class="card-title">Walk Analytics</h3>
-        <p class="text-sm text-secondary mb-sm">Analisi Fitness e Salute Camminata</p>
-        <p class="mb-md">Monitora prestazioni camminata, metriche salute e ottimizza il tuo percorso fitness di camminata.</p>
-        <ul class="mb-lg">
-          
-          <li class="mb-sm">Analisi conteggio passi e ritmo</li>
-          
-          <li class="mb-sm">Metriche salute cardiovascolare</li>
-          
-          <li class="mb-sm">Monitoraggio progressione allenamento</li>
-          
-          <li class="mb-sm">Ottimizzazione e pianificazione percorsi</li>
-          
-        </ul>
-        <a href="https://walk.analyticszone.app" class="btn btn-secondary" target="_blank" rel="noopener">Esplora Analisi Camminata</a>
+        <div class="app-bg-glow walk-bg"></div>
       </article>
     </div>
   </div>
 </section>
 
-<!-- Technology Section -->
-<section class="section callout callout-info">
+<!-- Why Data Matters (Redesigned) -->
+<section class="section why-data-section">
   <div class="container">
-    <h2 class="text-center mb-md">Tecnologia Privacy-First</h2>
-    <p class="text-center text-lg mb-2xl max-w-prose">I Tuoi Dati Restano Tuoi</p>
-
-    <div class="grid-3 gap-lg">
-      <div class="text-center">
-        <div class="mb-md">
-          <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin: 0 auto;">
-            <rect x="3" y="11" width="18" height="11" rx="2" ry="2"/>
-            <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
-          </svg>
-        </div>
-        <h3 class="mb-sm">Elaborazione Locale</h3>
-        <p></p>
+    <div class="section-header text-center mb-3xl scroll-reveal">
+      <h2 class="section-title">Perché i dati contano</h2>
+    </div>
+    <div class="grid-3 gap-xl">
+      <div class="feature-card scroll-reveal">
+        <div class="feature-icon">🎯</div>
+        <h3>Precisione</h3>
+        <p>Precisione di grado medico per le tue metriche di allenamento.</p>
       </div>
-
-      <div class="text-center">
-        <div class="mb-md">
-          <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin: 0 auto;">
-            <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
-          </svg>
-        </div>
-        <h3 class="mb-sm">Scientificamente Supportato</h3>
-        <p></p>
+      <div class="feature-card scroll-reveal delay-1">
+        <div class="feature-icon">⚡</div>
+        <h3>Tempo reale</h3>
+        <p>Feedback dal vivo per regolare le tue prestazioni istantaneamente.</p>
       </div>
-
-      <div class="text-center">
-        <div class="mb-md">
-          <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin: 0 auto;">
-            <polyline points="16 18 22 12 16 6"/>
-            <polyline points="8 6 2 12 8 18"/>
-          </svg>
-        </div>
-        <h3 class="mb-sm">Standard Aperti</h3>
-        <p></p>
+      <div class="feature-card scroll-reveal delay-2">
+        <div class="feature-icon">🔒</div>
+        <h3>Privacy Prima di Tutto</h3>
+        <p>I tuoi dati rimangono sul tuo dispositivo. Zero dipendenza dal cloud.</p>
       </div>
     </div>
   </div>
 </section>
 
 <!-- CTA Section -->
-<section class="section">
+<section class="section cta-final-section">
   <div class="container text-center">
-    <h2 class="mb-md">Pronto a Elevare il Tuo Allenamento?</h2>
-    <p class="text-lg mb-lg max-w-prose">Scegli l&#39;applicazione di analisi specifica per sport che si adatta ai tuoi obiettivi atletici.</p>
-    <a href="#solutions" class="btn btn-primary btn-large">Inizia</a>
+    <h2 class="mb-md scroll-reveal">Pronto ad andare più a fondo?</h2>
+    <p class="text-lg mb-lg max-w-prose scroll-reveal delay-1">Scegli il tuo sport e inizia ad analizzare con la trasparenza e il rigore che meriti.</p>
+    <a href="#app-hub" class="btn btn-primary btn-large scroll-reveal delay-2">Esplora le Nostre App</a>
   </div>
 </section>
   </main>

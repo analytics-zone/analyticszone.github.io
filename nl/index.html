@@ -579,179 +579,154 @@ img[width][height] {
 
   
   <main id="main-content" class="main-content">
-    <!-- Hero Section -->
-<section class="hero">
-  <div class="container">
-    <div class="hero-content">
-      <h1 class="hero-title">Professionele Sportanalytiek Applicaties</h1>
-      <p class="hero-subtitle">Transformeer Je Atletische Prestaties met Privacy-Gerichte Technologie</p>
-      <p class="hero-description">AnalyticsZone levert gespecialiseerde analytiek applicaties voor hardlopers, zwemmers, wielrenners en wandelaars. Onze suite van tools biedt diepgaande inzichten in je trainingsmetrieken, prestatieoptimalisatie en atletische progressie—alles terwijl je gegevens volledig privé en veilig op je apparaat blijven.</p>
-      <a href="#solutions" class="btn btn-primary btn-large"></a>
+    <!-- Hero Section: Impact & Data Passion -->
+<section class="hero hero-impact">
+  <div class="hero-overlay"></div>
+  <div class="container relative z-10">
+    <div class="hero-content text-center">
+
+      <!-- Pulse Data Visual (CSS Effect) -->
+      <div class="pulse-logo-container mb-lg">
+        <div class="pulse-core"></div>
+        <div class="pulse-ring ring-1"></div>
+        <div class="pulse-ring ring-2"></div>
+        <div class="pulse-ring ring-3"></div>
+      </div>
+
+      <h1 class="hero-title scroll-reveal">Professionele Sportanalytiek Applicaties</h1>
+      <p class="hero-subtitle scroll-reveal delay-1">Transformeer Je Atletische Prestaties met Privacy-Gerichte Technologie</p>
+
+      <div class="hero-ctas scroll-reveal delay-2">
+        <a href="#app-hub" class="btn btn-primary btn-large">Ontdek Onze Oplossingen</a>
+      </div>
     </div>
   </div>
 </section>
 
-<!-- Solutions Section -->
-<section id="solutions" class="section">
+<!-- App Hub Section -->
+<section id="app-hub" class="section app-hub-section">
   <div class="container">
-    <h2 class="text-center mb-md">Sportspecifieke Analytiek Applicaties</h2>
-    <p class="text-center text-secondary mb-2xl max-w-prose">Kies de gespecialiseerde tool ontworpen voor jouw atletische discipline</p>
+    <div class="section-header text-center mb-3xl scroll-reveal">
+      <h2 class="section-title">Het AnalyticsZone Ecosysteem</h2>
+      <p class="section-subtitle">Gespecialiseerde tools voor elke discipline, verenigd door data.</p>
+    </div>
 
-    <div class="grid-2 gap-xl">
+    <div class="apps-grid">
       <!-- Run Analytics -->
-      <article class="card">
-        <div class="app-icon mb-md">
-          <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/>
-          </svg>
+      <article class="app-card app-card-run scroll-reveal delay-1">
+        <div class="app-card-content">
+          <div class="app-icon-wrapper run-glow">
+            <img src="/assets/images/run.png" alt="Run Analytics" class="app-icon-img">
+          </div>
+          <h3 class="app-title">Run Analytics</h3>
+          <p class="app-tagline">Geavanceerde Hardloopanalytiek</p>
+          <a href="https://run.analyticszone.app" class="btn btn-app btn-run" target="_blank" rel="noopener">
+            <span>Verken Hardloopanalytiek</span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none"
+              stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12h14" />
+              <path d="m12 5 7 7-7 7" />
+            </svg>
+          </a>
         </div>
-        <h3 class="card-title">Run Analytics</h3>
-        <p class="text-sm text-secondary mb-sm">Geavanceerde Hardloopanalytiek</p>
-        <p class="mb-md">Uitgebreide trainingszones, VO2max tracking, race planning en prestatiemetrieken gebaseerd op wetenschappelijk onderzoek.</p>
-        <ul class="mb-lg">
-          
-          <li class="mb-sm">Trainingszone berekening (Coggan, Daniels, Seiler)</li>
-          
-          <li class="mb-sm">VO2max en lactaatdrempel analyse</li>
-          
-          <li class="mb-sm">Marathon periodisering en trainingsbelasting</li>
-          
-          <li class="mb-sm">Hardloopeconomie en biomechanische inzichten</li>
-          
-        </ul>
-        <a href="https://run.analyticszone.app" class="btn btn-secondary" target="_blank" rel="noopener">Verken Hardloopanalytiek</a>
+        <div class="app-bg-glow run-bg"></div>
       </article>
 
       <!-- Swim Analytics -->
-      <article class="card">
-        <div class="app-icon mb-md">
-          <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M2 15c.6.5 1.2 1 2.5 1 2 0 3.5-1.5 3.5-1.5s1.5 1.5 3.5 1.5c2 0 3.5-1.5 3.5-1.5s1.5 1.5 3.5 1.5c1.3 0 1.9-.5 2.5-1"/>
-            <path d="M2 9c.6.5 1.2 1 2.5 1 2 0 3.5-1.5 3.5-1.5S9.5 10 11.5 10c2 0 3.5-1.5 3.5-1.5s1.5 1.5 3.5 1.5c1.3 0 1.9-.5 2.5-1"/>
-          </svg>
+      <article class="app-card app-card-swim scroll-reveal delay-2">
+        <div class="app-card-content">
+          <div class="app-icon-wrapper swim-glow">
+            <img src="/assets/images/swim.png" alt="Swim Analytics" class="app-icon-img">
+          </div>
+          <h3 class="app-title">Swim Analytics</h3>
+          <p class="app-tagline">Zwemprestatie Optimalisatie</p>
+          <a href="https://swim.analyticszone.app" class="btn btn-app btn-swim" target="_blank" rel="noopener">
+            <span>Verken Zwemanalytiek</span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none"
+              stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12h14" />
+              <path d="m12 5 7 7-7 7" />
+            </svg>
+          </a>
         </div>
-        <h3 class="card-title">Swim Analytics</h3>
-        <p class="text-sm text-secondary mb-sm">Zwemprestatie Optimalisatie</p>
-        <p class="mb-md">Geavanceerde analytiek voor techniekverbetering, slaganalyse en trainingsprogressie.</p>
-        <ul class="mb-lg">
-          
-          <li class="mb-sm">Slagfrequentie en efficiëntie metrieken</li>
-          
-          <li class="mb-sm">SWOLF score tracking</li>
-          
-          <li class="mb-sm">Trainingsintensiteit zones voor zwemmen</li>
-          
-          <li class="mb-sm">Prestatietrends en race voorbereiding</li>
-          
-        </ul>
-        <a href="https://swim.analyticszone.app" class="btn btn-secondary" target="_blank" rel="noopener">Verken Zwemanalytiek</a>
+        <div class="app-bg-glow swim-bg"></div>
       </article>
 
       <!-- Bike Analytics -->
-      <article class="card">
-        <div class="app-icon mb-md">
-          <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <circle cx="18.5" cy="17.5" r="3.5"/>
-            <circle cx="5.5" cy="17.5" r="3.5"/>
-            <circle cx="15" cy="5" r="1"/>
-            <path d="M12 17.5V14l-3-3 4-3 2 3h2"/>
-          </svg>
+      <article class="app-card app-card-bike scroll-reveal delay-3">
+        <div class="app-card-content">
+          <div class="app-icon-wrapper bike-glow">
+            <img src="/assets/images/bike.png" alt="Bike Analytics" class="app-icon-img">
+          </div>
+          <h3 class="app-title">Bike Analytics</h3>
+          <p class="app-tagline">Professionele Wielrenanalytiek</p>
+          <a href="https://bike.analyticszone.app" class="btn btn-app btn-bike" target="_blank" rel="noopener">
+            <span>Verken Wielrenanalytiek</span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none"
+              stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12h14" />
+              <path d="m12 5 7 7-7 7" />
+            </svg>
+          </a>
         </div>
-        <h3 class="card-title">Bike Analytics</h3>
-        <p class="text-sm text-secondary mb-sm">Professionele Wielrenanalytiek</p>
-        <p class="mb-md">Vermogen-gebaseerde trainingsmetrieken, FTP analyse en uitgebreide wielrenprestatie tracking.</p>
-        <ul class="mb-lg">
-          
-          <li class="mb-sm">Vermogenszone distributie (Coggan niveaus)</li>
-          
-          <li class="mb-sm">FTP testen en drempel tracking</li>
-          
-          <li class="mb-sm">Training Stress Score (TSS) analyse</li>
-          
-          <li class="mb-sm">Wielrenefficiëntie en biomechanica</li>
-          
-        </ul>
-        <a href="https://bike.analyticszone.app" class="btn btn-secondary" target="_blank" rel="noopener">Verken Wielrenanalytiek</a>
+        <div class="app-bg-glow bike-bg"></div>
       </article>
 
       <!-- Walk Analytics -->
-      <article class="card">
-        <div class="app-icon mb-md">
-          <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <circle cx="12" cy="5" r="2"/>
-            <path d="m9 20 3-6 2 4 2-2"/>
-            <path d="M9 20H4"/>
-            <path d="m6 16-2 4"/>
-          </svg>
+      <article class="app-card app-card-walk scroll-reveal delay-4">
+        <div class="app-card-content">
+          <div class="app-icon-wrapper walk-glow">
+            <img src="/assets/images/walk.png" alt="Walk Analytics" class="app-icon-img">
+          </div>
+          <h3 class="app-title">Walk Analytics</h3>
+          <p class="app-tagline">Wandelfitness &amp; Gezondheidsanalytiek</p>
+          <a href="https://walk.analyticszone.app" class="btn btn-app btn-walk" target="_blank" rel="noopener">
+            <span>Verken Wandelanalytiek</span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none"
+              stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12h14" />
+              <path d="m12 5 7 7-7 7" />
+            </svg>
+          </a>
         </div>
-        <h3 class="card-title">Walk Analytics</h3>
-        <p class="text-sm text-secondary mb-sm">Wandelfitness &amp; Gezondheidsanalytiek</p>
-        <p class="mb-md">Volg wandelprestaties, gezondheidsmetrieken en optimaliseer je wandelfitness reis.</p>
-        <ul class="mb-lg">
-          
-          <li class="mb-sm">Stappentelling en tempo analyse</li>
-          
-          <li class="mb-sm">Cardiovasculaire gezondheidsmetrieken</li>
-          
-          <li class="mb-sm">Trainingsprogressie tracking</li>
-          
-          <li class="mb-sm">Route optimalisatie en planning</li>
-          
-        </ul>
-        <a href="https://walk.analyticszone.app" class="btn btn-secondary" target="_blank" rel="noopener">Verken Wandelanalytiek</a>
+        <div class="app-bg-glow walk-bg"></div>
       </article>
     </div>
   </div>
 </section>
 
-<!-- Technology Section -->
-<section class="section callout callout-info">
+<!-- Why Data Matters (Redesigned) -->
+<section class="section why-data-section">
   <div class="container">
-    <h2 class="text-center mb-md">Privacy-Gerichte Technologie</h2>
-    <p class="text-center text-lg mb-2xl max-w-prose">Jouw Data Blijft van Jou</p>
-
-    <div class="grid-3 gap-lg">
-      <div class="text-center">
-        <div class="mb-md">
-          <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin: 0 auto;">
-            <rect x="3" y="11" width="18" height="11" rx="2" ry="2"/>
-            <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
-          </svg>
-        </div>
-        <h3 class="mb-sm">Lokale Verwerking</h3>
-        <p></p>
+    <div class="section-header text-center mb-3xl scroll-reveal">
+      <h2 class="section-title">Waarom data belangrijk is</h2>
+    </div>
+    <div class="grid-3 gap-xl">
+      <div class="feature-card scroll-reveal">
+        <div class="feature-icon">🎯</div>
+        <h3>Precisie</h3>
+        <p>Medische nauwkeurigheid voor je trainingsmetrieken.</p>
       </div>
-
-      <div class="text-center">
-        <div class="mb-md">
-          <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin: 0 auto;">
-            <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
-          </svg>
-        </div>
-        <h3 class="mb-sm">Wetenschappelijk Onderbouwd</h3>
-        <p></p>
+      <div class="feature-card scroll-reveal delay-1">
+        <div class="feature-icon">⚡</div>
+        <h3>Real-time</h3>
+        <p>Live feedback om je prestaties direct aan te passen.</p>
       </div>
-
-      <div class="text-center">
-        <div class="mb-md">
-          <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin: 0 auto;">
-            <polyline points="16 18 22 12 16 6"/>
-            <polyline points="8 6 2 12 8 18"/>
-          </svg>
-        </div>
-        <h3 class="mb-sm">Open Standaarden</h3>
-        <p></p>
+      <div class="feature-card scroll-reveal delay-2">
+        <div class="feature-icon">🔒</div>
+        <h3>Privacy Eerst</h3>
+        <p>Je data blijft op je apparaat. Geen cloud afhankelijkheid.</p>
       </div>
     </div>
   </div>
 </section>
 
 <!-- CTA Section -->
-<section class="section">
+<section class="section cta-final-section">
   <div class="container text-center">
-    <h2 class="mb-md">Klaar om Je Training te Verbeteren?</h2>
-    <p class="text-lg mb-lg max-w-prose">Kies de sport-specifieke analytiek applicatie die past bij je atletische doelen.</p>
-    <a href="#solutions" class="btn btn-primary btn-large">Begin Nu</a>
+    <h2 class="mb-md scroll-reveal">Klaar om dieper te gaan?</h2>
+    <p class="text-lg mb-lg max-w-prose scroll-reveal delay-1">Kies je sport en begin met analyseren met de transparantie en nauwkeurigheid die je verdient.</p>
+    <a href="#app-hub" class="btn btn-primary btn-large scroll-reveal delay-2">Verken Onze Apps</a>
   </div>
 </section>
   </main>
