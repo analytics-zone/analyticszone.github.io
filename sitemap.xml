@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://analyticszone.app/ca/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/"/>
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ca/about/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/about/"/>
@@ -42,7 +42,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ca/contact/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/contact/"/>
@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ca/menu1/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu1/"/>
@@ -82,7 +82,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ca/menu2/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu2/"/>
@@ -102,7 +102,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ca/menu3/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/menu3/"/>
@@ -122,6 +122,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ca/privacy/</loc>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/privacy/"/>
@@ -141,7 +142,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ca/technology/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/technology/"/>
@@ -161,6 +162,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ca/terms/</loc>
+    <lastmod>2025-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://analyticszone.app/de/terms/"/>
@@ -180,7 +182,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/de/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
@@ -200,7 +202,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/de/about/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
@@ -220,7 +222,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/de/contact/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
@@ -240,6 +242,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/de/menu1/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
@@ -259,6 +262,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/de/menu2/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
@@ -278,6 +282,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/de/menu3/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
@@ -297,6 +302,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/de/privacy/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
@@ -316,7 +322,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/de/technology/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
@@ -336,6 +342,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/de/terms/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
@@ -355,7 +362,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/en/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
@@ -375,7 +382,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/en/about/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
@@ -395,7 +402,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/en/contact/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
@@ -415,6 +422,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/en/menu1/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
@@ -434,6 +442,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/en/menu2/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
@@ -453,6 +462,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/en/menu3/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
@@ -472,6 +482,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/en/privacy/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
@@ -491,7 +502,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/en/technology/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
@@ -511,6 +522,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/en/terms/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
@@ -530,7 +542,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/es/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
@@ -550,7 +562,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/es/about/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
@@ -570,7 +582,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/es/contact/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
@@ -590,6 +602,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/es/menu1/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
@@ -609,6 +622,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/es/menu2/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
@@ -628,6 +642,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/es/menu3/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
@@ -647,6 +662,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/es/privacy/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
@@ -666,7 +682,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/es/technology/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
@@ -686,6 +702,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/es/terms/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
@@ -705,7 +722,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/fr/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
@@ -725,7 +742,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/fr/about/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
@@ -745,7 +762,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/fr/contact/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
@@ -765,6 +782,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/fr/menu1/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
@@ -784,6 +802,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/fr/menu2/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
@@ -803,6 +822,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/fr/menu3/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
@@ -822,6 +842,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/fr/privacy/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
@@ -841,7 +862,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/fr/technology/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
@@ -861,6 +882,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/fr/terms/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
@@ -880,7 +902,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/it/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
@@ -900,7 +922,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/it/about/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
@@ -920,7 +942,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/it/contact/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
@@ -940,6 +962,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/it/menu1/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
@@ -959,6 +982,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/it/menu2/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
@@ -978,6 +1002,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/it/menu3/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
@@ -997,6 +1022,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/it/privacy/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
@@ -1016,7 +1042,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/it/technology/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
@@ -1036,6 +1062,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/it/terms/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
@@ -1055,7 +1082,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ja/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
@@ -1075,7 +1102,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ja/about/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
@@ -1095,7 +1122,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ja/contact/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
@@ -1115,6 +1142,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ja/menu1/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
@@ -1134,6 +1162,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ja/menu2/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
@@ -1153,6 +1182,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ja/menu3/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
@@ -1172,6 +1202,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ja/privacy/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
@@ -1191,7 +1222,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ja/technology/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
@@ -1211,6 +1242,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ja/terms/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
@@ -1230,7 +1262,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/nl/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
@@ -1250,7 +1282,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/nl/about/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
@@ -1270,7 +1302,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/nl/contact/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
@@ -1290,6 +1322,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/nl/menu1/</loc>
+    <lastmod>2025-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
@@ -1309,6 +1342,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/nl/menu2/</loc>
+    <lastmod>2025-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
@@ -1328,6 +1362,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/nl/menu3/</loc>
+    <lastmod>2025-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
@@ -1347,6 +1382,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/nl/privacy/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
@@ -1366,7 +1402,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/nl/technology/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
@@ -1386,6 +1422,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/nl/terms/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
@@ -1405,7 +1442,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/pt/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
@@ -1425,7 +1462,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/pt/about/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
@@ -1445,7 +1482,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/pt/contact/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
@@ -1465,6 +1502,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/pt/menu1/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
@@ -1484,6 +1522,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/pt/menu2/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
@@ -1503,6 +1542,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/pt/menu3/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
@@ -1522,6 +1562,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/pt/privacy/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
@@ -1541,7 +1582,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/pt/technology/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
@@ -1561,6 +1602,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/pt/terms/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
@@ -1580,7 +1622,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/zh/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
@@ -1600,7 +1642,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/zh/about/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
@@ -1620,7 +1662,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/zh/contact/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
@@ -1640,6 +1682,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/zh/menu1/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
@@ -1659,6 +1702,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/zh/menu2/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
@@ -1678,6 +1722,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/zh/menu3/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
@@ -1697,6 +1742,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/zh/privacy/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
@@ -1716,7 +1762,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/zh/technology/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
@@ -1736,6 +1782,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/zh/terms/</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
@@ -1755,7 +1802,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ko/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
@@ -1775,7 +1822,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ko/about/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
@@ -1795,7 +1842,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ko/contact/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
@@ -1815,7 +1862,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ko/menu1/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
@@ -1835,7 +1882,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ko/menu2/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
@@ -1855,7 +1902,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ko/menu3/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
@@ -1875,6 +1922,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ko/privacy/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
@@ -1894,7 +1942,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ko/technology/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
@@ -1914,6 +1962,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/ko/terms/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
@@ -1933,7 +1982,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/sv/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
@@ -1953,7 +2002,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/sv/about/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
@@ -1973,7 +2022,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/sv/contact/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
@@ -1993,7 +2042,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/sv/menu1/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
@@ -2013,7 +2062,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/sv/menu2/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
@@ -2033,7 +2082,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/sv/menu3/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
@@ -2053,6 +2102,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/sv/privacy/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
@@ -2072,7 +2122,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/sv/technology/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
@@ -2092,6 +2142,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/sv/terms/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
@@ -2111,7 +2162,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/nb/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
@@ -2131,7 +2182,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/nb/about/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
@@ -2151,7 +2202,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/nb/contact/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
@@ -2171,7 +2222,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/nb/menu1/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
@@ -2191,7 +2242,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/nb/menu2/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
@@ -2211,7 +2262,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/nb/menu3/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
@@ -2231,6 +2282,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/nb/privacy/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
@@ -2250,7 +2302,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/nb/technology/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
@@ -2270,6 +2322,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/nb/terms/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
@@ -2289,7 +2342,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/pl/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
@@ -2309,7 +2362,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/pl/about/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
@@ -2329,7 +2382,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/pl/contact/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/contact/"/>
@@ -2349,7 +2402,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/pl/menu1/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu1/"/>
@@ -2369,7 +2422,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/pl/menu2/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu2/"/>
@@ -2389,7 +2442,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/pl/menu3/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/menu3/"/>
@@ -2409,6 +2462,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/pl/privacy/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/privacy/"/>
@@ -2428,7 +2482,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/pl/technology/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
@@ -2448,6 +2502,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/pl/terms/</loc>
+    <lastmod>2025-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/terms/"/>
@@ -2467,7 +2522,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/hi/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/"/>
@@ -2487,7 +2542,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/hi/about/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/about/"/>
@@ -2607,7 +2662,7 @@
   </url>
   <url>
     <loc>https://analyticszone.app/hi/technology/</loc>
-    <lastmod>2025-12-03</lastmod>
+    <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ca" href="https://analyticszone.app/ca/technology/"/>
