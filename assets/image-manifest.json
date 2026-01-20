@@ -1,10 +1,4 @@
 {
-  "logo-dark.webp": {
-    "srcset": "/assets/images/./logo-dark-400w.webp 400w, /assets/images/./logo-dark-800w.webp 800w, /assets/images/logo-dark.webp 1024w",
-    "sizes": "(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px",
-    "width": 1024,
-    "height": 1024
-  },
   "cardio.webp": {
     "srcset": "/assets/images/./cardio-400w.webp 400w, /assets/images/./cardio-800w.webp 800w, /assets/images/cardio.webp 1024w",
     "sizes": "(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px",
@@ -23,20 +17,8 @@
     "width": 1024,
     "height": 1024
   },
-  "logo-unified.webp": {
-    "srcset": "/assets/images/./logo-unified-400w.webp 400w, /assets/images/./logo-unified-800w.webp 800w, /assets/images/logo-unified.webp 1024w",
-    "sizes": "(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px",
-    "width": 1024,
-    "height": 1024
-  },
   "bike-dark.webp": {
     "srcset": "/assets/images/./bike-dark-400w.webp 400w, /assets/images/./bike-dark-800w.webp 800w, /assets/images/bike-dark.webp 1024w",
-    "sizes": "(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px",
-    "width": 1024,
-    "height": 1024
-  },
-  "run.webp": {
-    "srcset": "/assets/images/./run-400w.webp 400w, /assets/images/./run-800w.webp 800w, /assets/images/run.webp 1024w",
     "sizes": "(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px",
     "width": 1024,
     "height": 1024
@@ -53,44 +35,14 @@
     "width": 1024,
     "height": 1024
   },
-  "walk.webp": {
-    "srcset": "/assets/images/./walk-400w.webp 400w, /assets/images/./walk-800w.webp 800w, /assets/images/walk.webp 1024w",
-    "sizes": "(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px",
-    "width": 1024,
-    "height": 1024
-  },
-  "logo.webp": {
-    "srcset": "/assets/images/./logo-400w.webp 400w, /assets/images/./logo-800w.webp 800w, /assets/images/logo.webp 1024w",
-    "sizes": "(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px",
-    "width": 1024,
-    "height": 1024
-  },
   "hero-impact.webp": {
     "srcset": "/assets/images/./hero-impact-400w.webp 400w, /assets/images/./hero-impact-800w.webp 800w, /assets/images/hero-impact.webp 1024w",
     "sizes": "(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px",
     "width": 1024,
     "height": 1024
   },
-  "swim-dark.webp": {
-    "srcset": "/assets/images/./swim-dark-400w.webp 400w, /assets/images/./swim-dark-800w.webp 800w, /assets/images/swim-dark.webp 1024w",
-    "sizes": "(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px",
-    "width": 1024,
-    "height": 1024
-  },
   "hero-about.webp": {
     "srcset": "/assets/images/./hero-about-400w.webp 400w, /assets/images/./hero-about-800w.webp 800w, /assets/images/hero-about.webp 1024w",
-    "sizes": "(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px",
-    "width": 1024,
-    "height": 1024
-  },
-  "swim.webp": {
-    "srcset": "/assets/images/./swim-400w.webp 400w, /assets/images/./swim-800w.webp 800w, /assets/images/swim.webp 1024w",
-    "sizes": "(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px",
-    "width": 1024,
-    "height": 1024
-  },
-  "cardio-dark.webp": {
-    "srcset": "/assets/images/./cardio-dark-400w.webp 400w, /assets/images/./cardio-dark-800w.webp 800w, /assets/images/cardio-dark.webp 1024w",
     "sizes": "(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px",
     "width": 1024,
     "height": 1024
