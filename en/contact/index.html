@@ -1020,13 +1020,16 @@ img[width][height] {
 </section>
 
 <section class="section section-light">
-    <div class="container container-narrow">
+    <div class="container">
 
         <div class="contact-card scroll-reveal delay-2">
-            <p class="text-center mb-xl">
-                Have questions about our applications? Need technical support? Want to share feedback? We'd love to hear
-                from you.
-            </p>
+            <div class="text-center mb-xl">
+                <p class="max-w-prose">
+                    Have questions about our applications? Need technical support? Want to share feedback? We'd love to
+                    hear
+                    from you. Our team typically responds within 24 hours.
+                </p>
+            </div>
 
             <form class="contact-form" id="contact-form" action="https://api.web3forms.com/submit" method="POST">
                 <!-- Web3Forms Access Key (from config.json) -->
@@ -1036,23 +1039,26 @@ img[width][height] {
                 <input type="hidden" name="language" value="en">
 
                 <!-- Email configuration -->
-                <input type="hidden" name="from_name" value="Contact Form">
+                <input type="hidden" name="from_name" value="AnalyticsZone Contact">
                 <input type="hidden" name="subject" value="New Contact Form Submission (EN)">
 
                 <!-- Honeypot Spam Protection -->
                 <input type="checkbox" name="botcheck" class="hidden">
 
-                <div class="form-group">
-                    <label for="name" class="form-label required">Name</label>
-                    <input type="text" id="name" name="name" class="form-input" placeholder="Your full name" required>
-                    <span class="form-error" id="name-error"></span>
-                </div>
+                <div class="grid grid-2">
+                    <div class="form-group">
+                        <label for="name" class="form-label required">Name</label>
+                        <input type="text" id="name" name="name" class="form-input" placeholder="Your full name"
+                            required>
+                        <span class="form-error" id="name-error"></span>
+                    </div>
 
-                <div class="form-group">
-                    <label for="email" class="form-label required">Email</label>
-                    <input type="email" id="email" name="email" class="form-input" placeholder="your.email@example.com"
-                        required>
-                    <span class="form-error" id="email-error"></span>
+                    <div class="form-group">
+                        <label for="email" class="form-label required">Email</label>
+                        <input type="email" id="email" name="email" class="form-input"
+                            placeholder="your.email@example.com" required>
+                        <span class="form-error" id="email-error"></span>
+                    </div>
                 </div>
 
                 <div class="form-group">
@@ -1063,13 +1069,20 @@ img[width][height] {
 
                 <div class="form-group">
                     <label for="message" class="form-label required">Message</label>
-                    <textarea id="message" name="message" class="form-textarea" rows="6"
+                    <textarea id="message" name="message" class="form-textarea" rows="5"
                         placeholder="How can we help you?" required></textarea>
                     <span class="form-error" id="message-error"></span>
                 </div>
 
-                <div class="form-group">
-                    <button type="submit" class="btn btn-primary btn-large w-full">Send Message</button>
+                <div class="form-group mt-xl">
+                    <button type="submit" class="btn btn-primary btn-large w-full">
+                        <span>Send Message</span>
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+                            stroke-linecap="round" stroke-linejoin="round" style="width: 1.2em; height: 1.2em;">
+                            <line x1="22" y1="2" x2="11" y2="13"></line>
+                            <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                        </svg>
+                    </button>
                 </div>
 
                 <div id="form-status" class="form-status hidden"></div>
@@ -1077,13 +1090,13 @@ img[width][height] {
         </div>
 
         <div class="contact-methods scroll-reveal delay-3">
-            <h2 class="text-center mb-xl">Other Ways to Contact</h2>
+            <h2 class="text-center mb-xl">Other Ways to Connect</h2>
             <div class="grid grid-2">
                 <a href="mailto:analyticszone@onmedic.org" class="contact-method-card">
                     <div class="contact-method-icon">✉️</div>
                     <div class="contact-method-info">
                         <h3>Email</h3>
-                        <p>Prefer direct email?</p>
+                        <p>Direct communication with our team</p>
                         <strong>analyticszone@onmedic.org</strong>
                     </div>
                 </a>
