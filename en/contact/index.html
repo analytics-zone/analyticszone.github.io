@@ -1012,70 +1012,82 @@ img[width][height] {
   
   <main id="main-content" class="main-content">
     
-    <section class="hero">
+    <section class="page-hero hero-gradient">
     <div class="container">
-        <h1>Contact AnalyticsZone</h1>
-        <p class="text-lg text-secondary">Questions, feedback, or technical support—we're here to help</p>
+        <h1 class="scroll-reveal">Contact</h1>
+        <p class="lead scroll-reveal delay-1">Questions, feedback, or technical support—we're here to help</p>
     </div>
 </section>
 
-<section class="section">
+<section class="section section-light">
     <div class="container container-narrow">
-        <p class="text-lg mb-3xl text-center">
-            Have questions about our applications? Need technical support? Want to share feedback? We'd love to hear from you.
-        </p>
 
-        <form class="contact-form" id="contact-form" action="https://api.web3forms.com/submit" method="POST">
-            <!-- Web3Forms Access Key (from config.json) -->
-            <input type="hidden" name="access_key" value="f09aee8b-c14a-490a-9f69-f0491e2bec41">
+        <div class="contact-card scroll-reveal delay-2">
+            <p class="text-center mb-xl">
+                Have questions about our applications? Need technical support? Want to share feedback? We'd love to hear
+                from you.
+            </p>
 
-            <!-- Language identifier -->
-            <input type="hidden" name="language" value="en">
+            <form class="contact-form" id="contact-form" action="https://api.web3forms.com/submit" method="POST">
+                <!-- Web3Forms Access Key (from config.json) -->
+                <input type="hidden" name="access_key" value="f09aee8b-c14a-490a-9f69-f0491e2bec41">
 
-            <!-- Email configuration -->
-            <input type="hidden" name="from_name" value="Contact Form">
-            <input type="hidden" name="subject" value="New Contact Form Submission (EN)">
+                <!-- Language identifier -->
+                <input type="hidden" name="language" value="en">
 
-            <!-- Honeypot Spam Protection -->
-            <input type="checkbox" name="botcheck" class="hidden">
+                <!-- Email configuration -->
+                <input type="hidden" name="from_name" value="Contact Form">
+                <input type="hidden" name="subject" value="New Contact Form Submission (EN)">
 
-            <div class="form-group">
-                <label for="name" class="form-label required">Name</label>
-                <input type="text" id="name" name="name" class="form-input" required>
-                <span class="form-error" id="name-error"></span>
-            </div>
+                <!-- Honeypot Spam Protection -->
+                <input type="checkbox" name="botcheck" class="hidden">
 
-            <div class="form-group">
-                <label for="email" class="form-label required">Email</label>
-                <input type="email" id="email" name="email" class="form-input" required>
-                <span class="form-error" id="email-error"></span>
-            </div>
-
-            <div class="form-group">
-                <label for="user-subject" class="form-label">Subject</label>
-                <input type="text" id="user-subject" name="user_subject" class="form-input">
-            </div>
-
-            <div class="form-group">
-                <label for="message" class="form-label required">Message</label>
-                <textarea id="message" name="message" class="form-textarea" rows="6" required></textarea>
-                <span class="form-error" id="message-error"></span>
-            </div>
-
-            <div class="form-group">
-                <button type="submit" class="btn btn-primary btn-large">Send Message</button>
-            </div>
-
-            <div id="form-status" class="form-status hidden"></div>
-        </form>
-
-        <div class="divider-top-xl">
-            <h2 class="mb-md">Other Ways to Contact</h2>
-            <div class="grid grid-2">
-                <div>
-                    <h3 class="text-lg mb-sm">Email</h3>
-                    <p><a href="mailto:analyticszone@onmedic.org">analyticszone@onmedic.org</a></p>
+                <div class="form-group">
+                    <label for="name" class="form-label required">Name</label>
+                    <input type="text" id="name" name="name" class="form-input" placeholder="Your full name" required>
+                    <span class="form-error" id="name-error"></span>
                 </div>
+
+                <div class="form-group">
+                    <label for="email" class="form-label required">Email</label>
+                    <input type="email" id="email" name="email" class="form-input" placeholder="your.email@example.com"
+                        required>
+                    <span class="form-error" id="email-error"></span>
+                </div>
+
+                <div class="form-group">
+                    <label for="user-subject" class="form-label">Subject</label>
+                    <input type="text" id="user-subject" name="user_subject" class="form-input"
+                        placeholder="What is this about?">
+                </div>
+
+                <div class="form-group">
+                    <label for="message" class="form-label required">Message</label>
+                    <textarea id="message" name="message" class="form-textarea" rows="6"
+                        placeholder="How can we help you?" required></textarea>
+                    <span class="form-error" id="message-error"></span>
+                </div>
+
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary btn-large w-full">Send Message</button>
+                </div>
+
+                <div id="form-status" class="form-status hidden"></div>
+            </form>
+        </div>
+
+        <div class="contact-methods scroll-reveal delay-3">
+            <h2 class="text-center mb-xl">Other Ways to Contact</h2>
+            <div class="grid grid-2">
+                <a href="mailto:analyticszone@onmedic.org" class="contact-method-card">
+                    <div class="contact-method-icon">✉️</div>
+                    <div class="contact-method-info">
+                        <h3>Email</h3>
+                        <p>Prefer direct email?</p>
+                        <strong>analyticszone@onmedic.org</strong>
+                    </div>
+                </a>
+
                 
             </div>
         </div>
