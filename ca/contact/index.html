@@ -496,7 +496,7 @@ img[width][height] {
   <link rel="dns-prefetch" href="https://www.googletagmanager.com">
 
   
-  <link rel="stylesheet" href="../../assets/css/main.min.css?v=86c0338c">
+  <link rel="stylesheet" href="../../assets/css/main.min.css?v=b3d932addb3b">
 
   
   
@@ -1028,64 +1028,94 @@ img[width][height] {
   
   <main id="main-content" class="main-content">
     
-    
+    <section class="page-hero hero-gradient">
+    <div class="container">
+        <h1 class="scroll-reveal">Contacte</h1>
+        <p class="lead scroll-reveal delay-1">Ens encantaria escoltar-te. Omple el formulari i et respondrem tan aviat com sigui possible.</p>
+    </div>
+</section>
 
-<section class="section">
-    <div class="container container-narrow">
-        <h1 class="mb-md">Contacte</h1>
-        <p class="mb-3xl">Ens encantaria escoltar-te. Omple el formulari i et respondrem tan aviat com sigui possible.</p>
+<section class="section section-light">
+    <div class="container">
 
-        <form class="contact-form" id="contact-form" action="https://api.web3forms.com/submit" method="POST">
-            <!-- Web3Forms Access Key (from config.json) -->
-            <input type="hidden" name="access_key" value="f09aee8b-c14a-490a-9f69-f0491e2bec41">
-
-            <!-- Language identifier -->
-            <input type="hidden" name="language" value="ca">
-
-            <!-- Email configuration -->
-            <input type="hidden" name="from_name" value="Contact Form">
-            <input type="hidden" name="subject" value="Nou missatge de contacte (CA)">
-
-            <!-- Honeypot Spam Protection -->
-            <input type="checkbox" name="botcheck" class="hidden">
-
-            <div class="form-group">
-                <label for="name" class="form-label required">Nom</label>
-                <input type="text" id="name" name="name" class="form-input" required>
-                <span class="form-error" id="name-error"></span>
+        <div class="contact-card scroll-reveal delay-2">
+            <div class="text-center mb-xl">
+                <p class="max-w-prose">Ens encantaria escoltar-te. Omple el formulari i et respondrem tan aviat com sigui possible.</p>
             </div>
 
-            <div class="form-group">
-                <label for="email" class="form-label required">Correu electrònic</label>
-                <input type="email" id="email" name="email" class="form-input" required>
-                <span class="form-error" id="email-error"></span>
-            </div>
+            <form class="contact-form" id="contact-form" action="https://api.web3forms.com/submit" method="POST"
+                data-msg-sending="Enviant..." data-msg-success="Missatge enviat correctament! Ens posarem en contacte aviat."
+                data-msg-error="Error enviant el missatge. Si us plau, torna-ho a provar o contacta&#39;ns per email." data-msg-required="Camp obligatori"
+                data-msg-invalid-email="Si us plau, introdueix un email vàlid">
+                <!-- Web3Forms Access Key (from config.json) -->
+                <input type="hidden" name="access_key" value="f09aee8b-c14a-490a-9f69-f0491e2bec41">
 
-            <div class="form-group">
-                <label for="user-subject" class="form-label">Assumpte</label>
-                <input type="text" id="user-subject" name="user_subject" class="form-input">
-            </div>
+                <!-- Language identifier -->
+                <input type="hidden" name="language" value="ca">
 
-            <div class="form-group">
-                <label for="message" class="form-label required">Missatge</label>
-                <textarea id="message" name="message" class="form-textarea" rows="6" required></textarea>
-                <span class="form-error" id="message-error"></span>
-            </div>
+                <!-- Email configuration -->
+                <input type="hidden" name="from_name" value="AnalyticsZone Contact">
+                <input type="hidden" name="subject" value="New Contact Form Submission (CA)">
 
-            <div class="form-group">
-                <button type="submit" class="btn btn-primary btn-large">Enviar Missatge</button>
-            </div>
+                <!-- Honeypot Spam Protection -->
+                <input type="checkbox" name="botcheck" class="hidden">
 
-            <div id="form-status" class="form-status hidden"></div>
-        </form>
+                <div class="grid grid-2">
+                    <div class="form-group">
+                        <label for="name" class="form-label required">Nom</label>
+                        <input type="text" id="name" name="name" class="form-input" placeholder="Nom"
+                            required>
+                        <span class="form-error" id="name-error"></span>
+                    </div>
 
-        <div class="divider-top-xl">
-            <h2 class="mb-md">Altres Formes de Contacte</h2>
-            <div class="grid grid-2">
-                <div>
-                    <h3 class="text-lg mb-sm">Correu</h3>
-                    <p><a href="mailto:analyticszone@onmedic.org">analyticszone@onmedic.org</a></p>
+                    <div class="form-group">
+                        <label for="email" class="form-label required">Correu electrònic</label>
+                        <input type="email" id="email" name="email" class="form-input"
+                            placeholder="Correu electrònic" required>
+                        <span class="form-error" id="email-error"></span>
+                    </div>
                 </div>
+
+                <div class="form-group">
+                    <label for="user-subject" class="form-label">Assumpte</label>
+                    <input type="text" id="user-subject" name="user_subject" class="form-input"
+                        placeholder="Assumpte">
+                </div>
+
+                <div class="form-group">
+                    <label for="message" class="form-label required">Missatge</label>
+                    <textarea id="message" name="message" class="form-textarea" rows="5"
+                        placeholder="Missatge" required></textarea>
+                    <span class="form-error" id="message-error"></span>
+                </div>
+
+                <div class="form-group mt-xl">
+                    <button type="submit" class="btn btn-primary btn-large w-full">
+                        <span>Enviar Missatge</span>
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+                            stroke-linecap="round" stroke-linejoin="round" style="width: 1.2em; height: 1.2em;">
+                            <line x1="22" y1="2" x2="11" y2="13"></line>
+                            <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                        </svg>
+                    </button>
+                </div>
+
+                <div id="form-status" class="form-status hidden"></div>
+            </form>
+        </div>
+
+        <div class="contact-methods scroll-reveal delay-3">
+            <h2 class="text-center mb-xl">Altres maneres de connectar</h2>
+            <div class="grid grid-2">
+                <a href="mailto:analyticszone@onmedic.org" class="contact-method-card">
+                    <div class="contact-method-icon">✉️</div>
+                    <div class="contact-method-info">
+                        <h3>Correu electrònic</h3>
+                        <p>Comunicació directa amb el nostre equip</p>
+                        <strong>analyticszone@onmedic.org</strong>
+                    </div>
+                </a>
+
                 
             </div>
         </div>
@@ -1428,8 +1458,8 @@ img[width][height] {
 </div>
 
   
-  <script src="../../assets/js/core.min.js?v=86c0338c" defer></script>
-  <script src="../../assets/js/search.min.js?v=86c0338c" defer></script>
+  <script src="../../assets/js/core.min.js?v=b3d932addb3b" defer></script>
+  <script src="../../assets/js/search.min.js?v=b3d932addb3b" defer></script>
   
 
   

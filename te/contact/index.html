@@ -496,7 +496,7 @@ img[width][height] {
   <link rel="dns-prefetch" href="https://www.googletagmanager.com">
 
   
-  <link rel="stylesheet" href="../../assets/css/main.min.css?v=86c0338c">
+  <link rel="stylesheet" href="../../assets/css/main.min.css?v=b3d932addb3b">
 
   
   
@@ -1028,65 +1028,96 @@ img[width][height] {
   
   <main id="main-content" class="main-content">
     
-    <section class="hero">
+    <section class="page-hero hero-gradient">
     <div class="container">
-        <h1>AnalyticsZoneను సంప్రదించండి</h1>
-        <p class="text-lg text-secondary">ప్రశ్నలు, అభిప్రాయాలు లేదా సాంకేతిక మద్దతు—మేము మీకు సహాయం చేయడానికి ఇక్కడ
+        <h1 class="scroll-reveal">సంప్రదించండి</h1>
+        <p class="lead scroll-reveal delay-1">ప్రశ్నలు, అభిప్రాయాలు లేదా సాంకేతిక మద్దతు—మేము మీకు సహాయం చేయడానికి ఇక్కడ
             ఉన్నాము</p>
     </div>
 </section>
 
-<section class="section">
-    <div class="container container-narrow">
-        <p class="text-lg mb-3xl text-center">
-            మా అప్లికేషన్‌ల గురించి ప్రశ్నలు ఉన్నాయా? సాంకేతిక మద్దతు కావాలా? అభిప్రాయాన్ని పంచుకోవాలనుకుంటున్నారా? మేము
-            మీ నుండి వినాలనుకుంటున్నాము.
-        </p>
+<section class="section section-light">
+    <div class="container">
 
-        <form class="contact-form" id="contact-form" action="https://api.web3forms.com/submit" method="POST">
-            <input type="hidden" name="access_key" value="f09aee8b-c14a-490a-9f69-f0491e2bec41">
-            <input type="hidden" name="language" value="te">
-            <input type="hidden" name="from_name" value="Contact Form">
-            <input type="hidden" name="subject" value="New Contact Form Submission (TE)">
-            <input type="checkbox" name="botcheck" class="hidden">
-
-            <div class="form-group">
-                <label for="name" class="form-label required">పేరు</label>
-                <input type="text" id="name" name="name" class="form-input" required>
-                <span class="form-error" id="name-error"></span>
+        <div class="contact-card scroll-reveal delay-2">
+            <div class="text-center mb-xl">
+                <p class="max-w-prose">మా అప్లికేషన్‌ల గురించి ప్రశ్నలు ఉన్నాయా? సాంకేతిక మద్దతు కావాలా? అభిప్రాయాన్ని పంచుకోవాలనుకుంటున్నారా? మేము
+            మీ నుండి వినాలనుకుంటున్నాము.</p>
             </div>
 
-            <div class="form-group">
-                <label for="email" class="form-label required">ఇమెయిల్</label>
-                <input type="email" id="email" name="email" class="form-input" required>
-                <span class="form-error" id="email-error"></span>
-            </div>
+            <form class="contact-form" id="contact-form" action="https://api.web3forms.com/submit" method="POST"
+                data-msg-sending="Sending..." data-msg-success="Message sent successfully! We&#39;ll get back to you soon."
+                data-msg-error="Error sending message. Please try again or contact us via email." data-msg-required="తప్పనిసరి ఫీల్డ్"
+                data-msg-invalid-email="Please enter a valid email address">
+                <!-- Web3Forms Access Key (from config.json) -->
+                <input type="hidden" name="access_key" value="f09aee8b-c14a-490a-9f69-f0491e2bec41">
 
-            <div class="form-group">
-                <label for="user-subject" class="form-label">విషయం</label>
-                <input type="text" id="user-subject" name="user_subject" class="form-input">
-            </div>
+                <!-- Language identifier -->
+                <input type="hidden" name="language" value="te">
 
-            <div class="form-group">
-                <label for="message" class="form-label required">సందేశం</label>
-                <textarea id="message" name="message" class="form-textarea" rows="6" required></textarea>
-                <span class="form-error" id="message-error"></span>
-            </div>
+                <!-- Email configuration -->
+                <input type="hidden" name="from_name" value="AnalyticsZone Contact">
+                <input type="hidden" name="subject" value="New Contact Form Submission (TE)">
 
-            <div class="form-group">
-                <button type="submit" class="btn btn-primary btn-large">సందేశం పంపండి</button>
-            </div>
+                <!-- Honeypot Spam Protection -->
+                <input type="checkbox" name="botcheck" class="hidden">
 
-            <div id="form-status" class="form-status hidden"></div>
-        </form>
+                <div class="grid grid-2">
+                    <div class="form-group">
+                        <label for="name" class="form-label required">పేరు</label>
+                        <input type="text" id="name" name="name" class="form-input" placeholder="పేరు"
+                            required>
+                        <span class="form-error" id="name-error"></span>
+                    </div>
 
-        <div class="divider-top-xl">
-            <h2 class="mb-md">సంప్రదించడానికి ఇతర మార్గాలు</h2>
-            <div class="grid grid-2">
-                <div>
-                    <h3 class="text-lg mb-sm">ఇమెయిల్</h3>
-                    <p><a href="mailto:analyticszone@onmedic.org">analyticszone@onmedic.org</a></p>
+                    <div class="form-group">
+                        <label for="email" class="form-label required">ఈమెయిల్</label>
+                        <input type="email" id="email" name="email" class="form-input"
+                            placeholder="ఈమెయిల్" required>
+                        <span class="form-error" id="email-error"></span>
+                    </div>
                 </div>
+
+                <div class="form-group">
+                    <label for="user-subject" class="form-label">Subject</label>
+                    <input type="text" id="user-subject" name="user_subject" class="form-input"
+                        placeholder="Subject">
+                </div>
+
+                <div class="form-group">
+                    <label for="message" class="form-label required">సందేశం</label>
+                    <textarea id="message" name="message" class="form-textarea" rows="5"
+                        placeholder="సందేశం" required></textarea>
+                    <span class="form-error" id="message-error"></span>
+                </div>
+
+                <div class="form-group mt-xl">
+                    <button type="submit" class="btn btn-primary btn-large w-full">
+                        <span>పంపండి</span>
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+                            stroke-linecap="round" stroke-linejoin="round" style="width: 1.2em; height: 1.2em;">
+                            <line x1="22" y1="2" x2="11" y2="13"></line>
+                            <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                        </svg>
+                    </button>
+                </div>
+
+                <div id="form-status" class="form-status hidden"></div>
+            </form>
+        </div>
+
+        <div class="contact-methods scroll-reveal delay-3">
+            <h2 class="text-center mb-xl">Other Ways to Connect</h2>
+            <div class="grid grid-2">
+                <a href="mailto:analyticszone@onmedic.org" class="contact-method-card">
+                    <div class="contact-method-icon">✉️</div>
+                    <div class="contact-method-info">
+                        <h3>Email</h3>
+                        <p>Direct communication with our team</p>
+                        <strong>analyticszone@onmedic.org</strong>
+                    </div>
+                </a>
+
                 
             </div>
         </div>
@@ -1429,8 +1460,8 @@ img[width][height] {
 </div>
 
   
-  <script src="../../assets/js/core.min.js?v=86c0338c" defer></script>
-  <script src="../../assets/js/search.min.js?v=86c0338c" defer></script>
+  <script src="../../assets/js/core.min.js?v=b3d932addb3b" defer></script>
+  <script src="../../assets/js/search.min.js?v=b3d932addb3b" defer></script>
   
 
   

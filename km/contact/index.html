@@ -496,7 +496,7 @@ img[width][height] {
   <link rel="dns-prefetch" href="https://www.googletagmanager.com">
 
   
-  <link rel="stylesheet" href="../../assets/css/main.min.css?v=86c0338c">
+  <link rel="stylesheet" href="../../assets/css/main.min.css?v=b3d932addb3b">
 
   
   
@@ -1028,60 +1028,98 @@ img[width][height] {
   
   <main id="main-content" class="main-content">
     
-    <section class="hero">
-<div class="container">
-<h1>ទាក់ទង AnalyticsZone</h1>
-<p class="text-lg text-secondary">សំណួរ មតិកែលម្អ ឬជំនួយបច្ចេកទេស - យើងនៅទីនេះដើម្បីជួយ</p>
-</div>
+    <section class="page-hero hero-gradient">
+    <div class="container">
+        <h1 class="scroll-reveal">ទាក់ទង</h1>
+        <p class="lead scroll-reveal delay-1">សំណួរ មតិកែលម្អ ឬជំនួយបច្ចេកទេស - យើងនៅទីនេះដើម្បីជួយ</p>
+    </div>
 </section>
-<section class="section">
-<div class="container container-narrow">
-<p class="text-lg mb-3xl text-center">មានសំណួរអំពីកម្មវិធីរបស់យើង? ត្រូវការជំនួយបច្ចេកទេស? ចង់ចែករំលែកមតិកែលម្អ? យើងចង់ឮពីអ្នក។</p>
-<form action="https://api.web3forms.com/submit" class="contact-form" id="contact-form" method="POST">
-Web3Forms Access Key (ពី config.json)
-<input name="access_key" type="hidden" value="f09aee8b-c14a-490a-9f69-f0491e2bec41"/>
-ឧបករណ៍កំណត់អត្តសញ្ញាណភាសា
-<input name="language" type="hidden" value="en"/>
-ការកំណត់រចនាសម្ព័ន្ធអ៊ីមែល
-<input name="from_name" type="hidden" value="Contact Form"/>
-<input name="subject" type="hidden" value="New Contact Form Submission (EN)"/>
-ការការពារសារឥតបានការ Honeypot
-<input class="hidden" name="botcheck" type="checkbox"/>
-<div class="form-group">
-<label class="form-label required" for="name">ឈ្មោះ</label>
-<input class="form-input" id="name" name="name" required="" type="text"/>
-<span class="form-error" id="name-error"></span>
-</div>
-<div class="form-group">
-<label class="form-label required" for="email">អ៊ីមែល</label>
-<input class="form-input" id="email" name="email" required="" type="email"/>
-<span class="form-error" id="email-error"></span>
-</div>
-<div class="form-group">
-<label class="form-label" for="user-subject">ប្រធានបទ</label>
-<input class="form-input" id="user-subject" name="user_subject" type="text"/>
-</div>
-<div class="form-group">
-<label class="form-label required" for="message">សារ</label>
-<textarea class="form-textarea" id="message" name="message" required="" rows="6"></textarea>
-<span class="form-error" id="message-error"></span>
-</div>
-<div class="form-group">
-<button class="btn btn-primary btn-large" type="submit">ផ្ញើសារ</button>
-</div>
-<div class="form-status hidden" id="form-status"></div>
-</form>
-<div class="divider-top-xl">
-<h2 class="mb-md">វិធីផ្សេងទៀតដើម្បីទាក់ទង</h2>
-<div class="grid grid-2">
-<div>
-<h3 class="text-lg mb-sm">អ៊ីមែល</h3>
-<p><a href="mailto:analyticszone@onmedic.org">analyticszone@onmedic.org</a></p>
-</div>
+
+<section class="section section-light">
+    <div class="container">
+
+        <div class="contact-card scroll-reveal delay-2">
+            <div class="text-center mb-xl">
+                <p class="max-w-prose">មានសំណួរអំពីកម្មវិធីរបស់យើង? ត្រូវការជំនួយបច្ចេកទេស? ចង់ចែករំលែកមតិកែលម្អ? យើងចង់ឮពីអ្នក។</p>
+            </div>
+
+            <form class="contact-form" id="contact-form" action="https://api.web3forms.com/submit" method="POST"
+                data-msg-sending="Sending..." data-msg-success="Message sent successfully! We&#39;ll get back to you soon."
+                data-msg-error="Error sending message. Please try again or contact us via email." data-msg-required="តម្រូវឱ្យបំពេញ"
+                data-msg-invalid-email="Please enter a valid email address">
+                <!-- Web3Forms Access Key (from config.json) -->
+                <input type="hidden" name="access_key" value="f09aee8b-c14a-490a-9f69-f0491e2bec41">
+
+                <!-- Language identifier -->
+                <input type="hidden" name="language" value="km">
+
+                <!-- Email configuration -->
+                <input type="hidden" name="from_name" value="AnalyticsZone Contact">
+                <input type="hidden" name="subject" value="New Contact Form Submission (KM)">
+
+                <!-- Honeypot Spam Protection -->
+                <input type="checkbox" name="botcheck" class="hidden">
+
+                <div class="grid grid-2">
+                    <div class="form-group">
+                        <label for="name" class="form-label required">ឈ្មោះ</label>
+                        <input type="text" id="name" name="name" class="form-input" placeholder="ឈ្មោះ"
+                            required>
+                        <span class="form-error" id="name-error"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="email" class="form-label required">អ៊ីមែល</label>
+                        <input type="email" id="email" name="email" class="form-input"
+                            placeholder="អ៊ីមែល" required>
+                        <span class="form-error" id="email-error"></span>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="user-subject" class="form-label">Subject</label>
+                    <input type="text" id="user-subject" name="user_subject" class="form-input"
+                        placeholder="Subject">
+                </div>
+
+                <div class="form-group">
+                    <label for="message" class="form-label required">សារ</label>
+                    <textarea id="message" name="message" class="form-textarea" rows="5"
+                        placeholder="សារ" required></textarea>
+                    <span class="form-error" id="message-error"></span>
+                </div>
+
+                <div class="form-group mt-xl">
+                    <button type="submit" class="btn btn-primary btn-large w-full">
+                        <span>ផ្ញើ</span>
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+                            stroke-linecap="round" stroke-linejoin="round" style="width: 1.2em; height: 1.2em;">
+                            <line x1="22" y1="2" x2="11" y2="13"></line>
+                            <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                        </svg>
+                    </button>
+                </div>
+
+                <div id="form-status" class="form-status hidden"></div>
+            </form>
+        </div>
+
+        <div class="contact-methods scroll-reveal delay-3">
+            <h2 class="text-center mb-xl">Other Ways to Connect</h2>
+            <div class="grid grid-2">
+                <a href="mailto:analyticszone@onmedic.org" class="contact-method-card">
+                    <div class="contact-method-icon">✉️</div>
+                    <div class="contact-method-info">
+                        <h3>Email</h3>
+                        <p>Direct communication with our team</p>
+                        <strong>analyticszone@onmedic.org</strong>
+                    </div>
+                </a>
+
                 
             </div>
-</div>
-</div>
+        </div>
+    </div>
 </section>
     
   </main>
@@ -1420,8 +1458,8 @@ Web3Forms Access Key (ពី config.json)
 </div>
 
   
-  <script src="../../assets/js/core.min.js?v=86c0338c" defer></script>
-  <script src="../../assets/js/search.min.js?v=86c0338c" defer></script>
+  <script src="../../assets/js/core.min.js?v=b3d932addb3b" defer></script>
+  <script src="../../assets/js/search.min.js?v=b3d932addb3b" defer></script>
   
 
   

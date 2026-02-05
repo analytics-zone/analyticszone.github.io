@@ -496,7 +496,7 @@ img[width][height] {
   <link rel="dns-prefetch" href="https://www.googletagmanager.com">
 
   
-  <link rel="stylesheet" href="../../assets/css/main.min.css?v=86c0338c">
+  <link rel="stylesheet" href="../../assets/css/main.min.css?v=b3d932addb3b">
 
   
   
@@ -1028,70 +1028,94 @@ img[width][height] {
   
   <main id="main-content" class="main-content">
     
-    <section class="hero">
+    <section class="page-hero hero-gradient">
     <div class="container">
-        <h1>AnalyticsZone kontaktieren</h1>
-        <p class="text-lg text-secondary">Fragen, Feedback oder technischer Support—wir sind hier, um zu helfen</p>
+        <h1 class="scroll-reveal">Kontakt</h1>
+        <p class="lead scroll-reveal delay-1">Fragen, Feedback oder technischer Support—wir sind hier, um zu helfen</p>
     </div>
 </section>
 
-<section class="section">
-    <div class="container container-narrow">
-        <p class="text-lg mb-3xl text-center">
-            Haben Sie Fragen zu unseren Anwendungen? Benötigen Sie technischen Support? Möchten Sie Feedback teilen? Wir würden gerne von Ihnen hören.
-        </p>
+<section class="section section-light">
+    <div class="container">
 
-        <form class="contact-form" id="contact-form" action="https://api.web3forms.com/submit" method="POST">
-            <!-- Web3Forms Access Key (from config.json) -->
-            <input type="hidden" name="access_key" value="f09aee8b-c14a-490a-9f69-f0491e2bec41">
-
-            <!-- Language identifier -->
-            <input type="hidden" name="language" value="de">
-
-            <!-- Email configuration -->
-            <input type="hidden" name="from_name" value="Kontaktformular">
-            <input type="hidden" name="subject" value="Neue Kontaktformular-Übermittlung (DE)">
-
-            <!-- Honeypot Spam Protection -->
-            <input type="checkbox" name="botcheck" class="hidden">
-
-            <div class="form-group">
-                <label for="name" class="form-label required">Name</label>
-                <input type="text" id="name" name="name" class="form-input" required>
-                <span class="form-error" id="name-error"></span>
+        <div class="contact-card scroll-reveal delay-2">
+            <div class="text-center mb-xl">
+                <p class="max-w-prose">Haben Sie Fragen zu unseren Anwendungen? Benötigen Sie technischen Support? Möchten Sie Feedback teilen? Wir würden gerne von Ihnen hören.</p>
             </div>
 
-            <div class="form-group">
-                <label for="email" class="form-label required">E-Mail</label>
-                <input type="email" id="email" name="email" class="form-input" required>
-                <span class="form-error" id="email-error"></span>
-            </div>
+            <form class="contact-form" id="contact-form" action="https://api.web3forms.com/submit" method="POST"
+                data-msg-sending="Wird gesendet..." data-msg-success="Nachricht erfolgreich gesendet! Wir melden uns in Kürze bei Ihnen."
+                data-msg-error="Fehler beim Senden der Nachricht. Bitte versuchen Sie es erneut oder kontaktieren Sie uns per E-Mail." data-msg-required="Pflichtfeld"
+                data-msg-invalid-email="Bitte geben Sie eine gültige E-Mail-Adresse ein.">
+                <!-- Web3Forms Access Key (from config.json) -->
+                <input type="hidden" name="access_key" value="f09aee8b-c14a-490a-9f69-f0491e2bec41">
 
-            <div class="form-group">
-                <label for="user-subject" class="form-label">Betreff</label>
-                <input type="text" id="user-subject" name="user_subject" class="form-input">
-            </div>
+                <!-- Language identifier -->
+                <input type="hidden" name="language" value="de">
 
-            <div class="form-group">
-                <label for="message" class="form-label required">Nachricht</label>
-                <textarea id="message" name="message" class="form-textarea" rows="6" required></textarea>
-                <span class="form-error" id="message-error"></span>
-            </div>
+                <!-- Email configuration -->
+                <input type="hidden" name="from_name" value="AnalyticsZone Contact">
+                <input type="hidden" name="subject" value="New Contact Form Submission (DE)">
 
-            <div class="form-group">
-                <button type="submit" class="btn btn-primary btn-large">Senden</button>
-            </div>
+                <!-- Honeypot Spam Protection -->
+                <input type="checkbox" name="botcheck" class="hidden">
 
-            <div id="form-status" class="form-status hidden"></div>
-        </form>
+                <div class="grid grid-2">
+                    <div class="form-group">
+                        <label for="name" class="form-label required">Name</label>
+                        <input type="text" id="name" name="name" class="form-input" placeholder="Name"
+                            required>
+                        <span class="form-error" id="name-error"></span>
+                    </div>
 
-        <div class="divider-top-xl">
-            <h2 class="mb-md">Weitere Kontaktmöglichkeiten</h2>
-            <div class="grid grid-2">
-                <div>
-                    <h3 class="text-lg mb-sm">E-Mail</h3>
-                    <p><a href="mailto:analyticszone@onmedic.org">analyticszone@onmedic.org</a></p>
+                    <div class="form-group">
+                        <label for="email" class="form-label required">E-Mail</label>
+                        <input type="email" id="email" name="email" class="form-input"
+                            placeholder="E-Mail" required>
+                        <span class="form-error" id="email-error"></span>
+                    </div>
                 </div>
+
+                <div class="form-group">
+                    <label for="user-subject" class="form-label">Betreff</label>
+                    <input type="text" id="user-subject" name="user_subject" class="form-input"
+                        placeholder="Betreff">
+                </div>
+
+                <div class="form-group">
+                    <label for="message" class="form-label required">Nachricht</label>
+                    <textarea id="message" name="message" class="form-textarea" rows="5"
+                        placeholder="Nachricht" required></textarea>
+                    <span class="form-error" id="message-error"></span>
+                </div>
+
+                <div class="form-group mt-xl">
+                    <button type="submit" class="btn btn-primary btn-large w-full">
+                        <span>Senden</span>
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+                            stroke-linecap="round" stroke-linejoin="round" style="width: 1.2em; height: 1.2em;">
+                            <line x1="22" y1="2" x2="11" y2="13"></line>
+                            <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                        </svg>
+                    </button>
+                </div>
+
+                <div id="form-status" class="form-status hidden"></div>
+            </form>
+        </div>
+
+        <div class="contact-methods scroll-reveal delay-3">
+            <h2 class="text-center mb-xl">Andere Kontaktmöglichkeiten</h2>
+            <div class="grid grid-2">
+                <a href="mailto:analyticszone@onmedic.org" class="contact-method-card">
+                    <div class="contact-method-icon">✉️</div>
+                    <div class="contact-method-info">
+                        <h3>E-Mail</h3>
+                        <p>Direkte Kommunikation mit unserem Team</p>
+                        <strong>analyticszone@onmedic.org</strong>
+                    </div>
+                </a>
+
                 
             </div>
         </div>
@@ -1434,8 +1458,8 @@ img[width][height] {
 </div>
 
   
-  <script src="../../assets/js/core.min.js?v=86c0338c" defer></script>
-  <script src="../../assets/js/search.min.js?v=86c0338c" defer></script>
+  <script src="../../assets/js/core.min.js?v=b3d932addb3b" defer></script>
+  <script src="../../assets/js/search.min.js?v=b3d932addb3b" defer></script>
   
 
   
