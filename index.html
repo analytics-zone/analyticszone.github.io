@@ -1,1 +1,30 @@
-<!doctype html><title>Redirecting to: /en/</title><meta http-equiv="refresh" content="2;url=/en/"><meta name="robots" content="noindex"><link rel="canonical" href="https://analyticszone.app/en/"><body>	<a href="/en/">Redirecting from <code>/</code> to <code>/en/</code></a></body>
+<!DOCTYPE html><html lang="en" data-astro-cid-j7pv25f6> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>AnalyticsZone</title><!-- Fallback no-JS → anglès --><meta http-equiv="refresh" content="1; url=/en/"><link rel="canonical" href="https://analyticszone.app/en/"><script>(function(){const SUPPORTED = ["af","am","ar","bg","bn","ca","cs","da","de","el","en","es","et","fa","fi","fr","gu","ha","he","hi","hr","hu","id","is","it","ja","km","kn","ko","lt","lv","ms","my","nb","nl","pl","pt","pt-br","ro","ru","sk","sl","sr","sv","sw","ta","te","th","tl","tr","uk","ur","vi","yo","zh"];
+
+    (function () {
+      var prefs = (navigator.languages && navigator.languages.length)
+        ? Array.from(navigator.languages)
+        : [navigator.language || 'en'];
+
+      var target = 'en';
+
+      for (var i = 0; i < prefs.length; i++) {
+        var raw   = prefs[i].toLowerCase();
+        var base  = raw.split('-')[0];
+
+        // Coincidència exacta (p.ex. 'pt-br', 'zh', 'nb')
+        if (SUPPORTED.indexOf(raw) !== -1) { target = raw; break; }
+
+        // Casos especials de variants
+        if (base === 'zh')  { target = 'zh';                                 break; }
+        if (base === 'pt')  { target = raw.indexOf('br') !== -1 ? 'pt-br' : 'pt'; break; }
+        if (base === 'no')  { target = 'nb';                                  break; }
+        if (base === 'fil') { target = 'tl';                                  break; }
+
+        // Coincidència per prefix (p.ex. 'en-US' → 'en', 'fr-CA' → 'fr')
+        if (SUPPORTED.indexOf(base) !== -1) { target = base; break; }
+      }
+
+      window.location.replace('/' + target + '/');
+    })();
+  })();</script><style>body{font-family:system-ui,sans-serif;text-align:center;padding:3rem;background:#f8f6f1;color:#0d0d0d}a[data-astro-cid-j7pv25f6]{color:#e05c2a}
+</style></head> <body data-astro-cid-j7pv25f6> <p data-astro-cid-j7pv25f6>Detecting language… <a href="/en/" data-astro-cid-j7pv25f6>Go to English →</a></p> </body></html>
