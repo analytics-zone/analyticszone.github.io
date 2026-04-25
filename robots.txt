@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://analyticszone.app/sitemap.xml
+Sitemap: https://analyticszone.app/sitemap-index.xml
 
 # llms.txt: https://analyticszone.app/llms.txt
