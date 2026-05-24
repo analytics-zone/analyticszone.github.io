@@ -11,20 +11,17 @@
         var raw   = prefs[i].toLowerCase();
         var base  = raw.split('-')[0];
 
-        // Coincidència exacta (p.ex. 'pt-br', 'zh', 'nb')
         if (SUPPORTED.indexOf(raw) !== -1) { target = raw; break; }
 
-        // Casos especials de variants
         if (base === 'zh')  { target = 'zh';                                 break; }
         if (base === 'pt')  { target = raw.indexOf('br') !== -1 ? 'pt-br' : 'pt'; break; }
         if (base === 'no')  { target = 'nb';                                  break; }
         if (base === 'fil') { target = 'tl';                                  break; }
 
-        // Coincidència per prefix (p.ex. 'en-US' → 'en', 'fr-CA' → 'fr')
         if (SUPPORTED.indexOf(base) !== -1) { target = base; break; }
       }
 
       window.location.replace('/' + target + '/');
     })();
-  })();</script><style>body{font-family:system-ui,sans-serif;text-align:center;padding:3rem;background:#f8f6f1;color:#0d0d0d}a[data-astro-cid-j7pv25f6]{color:#e05c2a}
-</style></head> <body data-astro-cid-j7pv25f6> <p data-astro-cid-j7pv25f6>Detecting language… <a href="/en/" data-astro-cid-j7pv25f6>Go to English →</a></p> </body></html>
+  })();</script><style>:root{--primary: #0b5cab;--bg: #f7f9fb}body{margin:0;padding:0;display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:100vh;background:var(--bg);font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;color:#0f172a;overflow:hidden}.loader-container[data-astro-cid-j7pv25f6]{display:flex;flex-direction:column;align-items:center;gap:1.5rem;animation:fadeIn .3s ease-out forwards}.logo-mark[data-astro-cid-j7pv25f6]{color:var(--primary);animation:pulse 1.6s ease-in-out infinite}.spinner[data-astro-cid-j7pv25f6]{width:28px;height:28px;border:2px solid rgba(15,23,42,.06);border-top-color:var(--primary);border-radius:50%;animation:spin .7s linear infinite}a[data-astro-cid-j7pv25f6]{margin-top:1rem;font-size:11px;color:#64748b;text-decoration:none;border-bottom:1px solid rgba(15,23,42,.15);padding-bottom:1px;opacity:.6;transition:opacity .2s}a[data-astro-cid-j7pv25f6]:hover{opacity:1}@keyframes fadeIn{0%{opacity:0;transform:scale(.97)}to{opacity:1;transform:scale(1)}}@keyframes spin{to{transform:rotate(360deg)}}@keyframes pulse{0%,to{opacity:.7;transform:scale(1)}50%{opacity:1;transform:scale(1.04)}}
+</style></head> <body data-astro-cid-j7pv25f6> <div class="loader-container" data-astro-cid-j7pv25f6> <svg class="logo-mark" width="44" height="44" viewBox="0 0 26 26" fill="none" aria-hidden="true" data-astro-cid-j7pv25f6> <rect x="1" y="1" width="24" height="24" rx="4" fill="currentColor" data-astro-cid-j7pv25f6></rect> <path d="M6 17.5H20" stroke="white" stroke-width="1.4" stroke-linecap="square" data-astro-cid-j7pv25f6></path> <path d="M7 16L10.5 10.5L13.2 14.2L16 7.8L19 12" stroke="white" stroke-width="1.7" stroke-linecap="square" stroke-linejoin="miter" data-astro-cid-j7pv25f6></path> </svg> <div class="spinner" data-astro-cid-j7pv25f6></div> <a href="/en/" data-astro-cid-j7pv25f6>Go to English →</a> </div> </body></html>
